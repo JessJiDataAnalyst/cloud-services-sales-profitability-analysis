@@ -108,7 +108,7 @@ One cleaned row is treated as one recorded transaction for row-level analysis. T
 ### PostgreSQL analysis
 
 1. Run `sql/00_create_table.sql` in your PostgreSQL client to create `public.cloud_saas_sales_clean` if it does not already exist.
-2. Import `data/cloud_saas_sales_clean.csv` into that table using your client’s CSV import feature, with the header row enabled and columns mapped by name. Alternatively, from the repository root in `psql`, use:
+2. Import `data/cloud_saas_sales_clean.csv` into that table using PostgreSQL’s CSV import feature, with the header row enabled and columns mapped by name. Alternatively, from the repository root in `psql`, use:
 
    ```sql
    \copy public.cloud_saas_sales_clean FROM 'data/cloud_saas_sales_clean.csv' WITH (FORMAT csv, HEADER true);
