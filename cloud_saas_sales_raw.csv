@@ -1,0 +1,1513 @@
+Date,Customer_ID,Country,Customer_Segment,Cloud_Service,Region,Revenue,Cost
+2025-10-31,CUST-0345,Thailand,Mid-Market,Cybersecurity,Southeast Asia,5682.48,1684.93
+2025-01-19,CUST-0002,Singapore,Mid-Market,Cloud Storage,Southeast Asia,4952.41,1692.49
+2025-07-09,CUST-0268,New Zealand,SMB,Data Analytics,ANZ,5124.96,1908.3
+2025-05-16,CUST-0320,Malaysia,Mid-Market,Cybersecurity,Southeast Asia,6281.81,2261.98
+2025-09-21,CUST-0232,Malaysia,SMB,Data Analytics,Southeast Asia,5590.99,3048.71
+2025-08-20,CUST-0187,Australia,SMB,SaaS Platform,ANZ,3410.95,1445.97
+2025-10-09,CUST-0296,Australia,Enterprise,Cloud Compute,ANZ,18816.67,5746.45
+2025-11-11,CUST-0021,UAE,Mid-Market,Cloud Storage,Middle East,7052.09,2601.18
+2025-05-14,CUST-0115,Thailand,SMB,Data Analytics,Southeast Asia,3111.8,1429.79
+2025-04-28,CUST-0350,Singapore,Enterprise,Cloud Storage,Southeast Asia,10372.96,5878.15
+2025-06-13,CUST-0106,Malaysia,Enterprise,Cloud Storage,Southeast Asia,6557.33,3308.62
+2025-01-08,CUST-0300,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,4011.65,1655.63
+2025-05-22,CUST-0260,Australia,SMB,Cybersecurity,ANZ,5417.34,1724.66
+2025-07-28,CUST-0095,Australia,Enterprise,Data Analytics,ANZ,14416.97,5994.56
+2025-04-20,CUST-0155,Singapore,Mid-Market,Data Analytics,Southeast Asia,10874.68,5902.76
+2025-07-31,CUST-0166,Thailand,Mid-Market,Cybersecurity,Southeast Asia,6743.17,1966.1
+2025-01-07,CUST-0267,Australia,SMB,Cloud Storage,ANZ,2418.53,1217.0
+2025-08-01,CUST-0259,New Zealand,Mid-Market,Cloud Compute,ANZ,6401.29,2223.53
+2025-03-26,CUST-0312,Australia,Mid-Market,Cybersecurity,ANZ,7452.17,2568.41
+2025-11-21,CUST-0065,UAE,Mid-Market,Cloud Compute,Middle East,9585.23,4895.3
+2025-05-28,CUST-0250,New Zealand,Enterprise,SaaS Platform,ANZ,13143.01,7534.55
+2025-12-20,CUST-0030,Australia,SMB,Cloud Compute,ANZ,5709.98,2324.17
+2025-02-03,CUST-0003,Australia,SMB,SaaS Platform,ANZ,3908.73,1280.28
+2025-10-30,CUST-0295,New Zealand,SMB,Cloud Storage,ANZ,3225.39,1267.95
+2025-08-11,CUST-0044,Malaysia,Enterprise,Data Analytics,Southeast Asia,16644.23,4969.8
+2025-12-08,CUST-0035,Malaysia,SMB,Cloud Compute,Southeast Asia,3286.77,957.08
+2025-06-02,CUST-0069,Malaysia,Enterprise,Data Analytics,Southeast Asia,15563.99,8128.38
+2025-05-08,CUST-0152,Thailand,Enterprise,Cloud Compute,Southeast Asia,10988.84,6027.17
+2025-02-08,CUST-0318,Australia,SMB,Cloud Storage,ANZ,1940.42,953.36
+2025-01-08,CUST-0082,Thailand,Enterprise,Data Analytics,Southeast Asia,11394.72,6104.16
+2025-05-03,CUST-0155,UAE,Enterprise,Cloud Compute,Middle East,12821.44,5306.45
+2025-07-12,CUST-0009,Thailand,Enterprise,SaaS Platform,Southeast Asia,9429.39,3212.61
+2025-11-16,CUST-0005,Thailand,Mid-Market,Data Analytics,Southeast Asia,7400.4,3953.33
+2025-01-21,CUST-0302,New Zealand,Enterprise,Cloud Storage,ANZ,6838.52,3649.19
+2025-01-06,CUST-0255,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,6088.07,1937.62
+2025-09-12,CUST-0124,Singapore,Mid-Market,Cloud Compute,Southeast Asia,7430.66,3290.8
+2025-05-11,CUST-0209,Australia,Mid-Market,Data Analytics,ANZ,9727.13,4726.7
+2025-01-24,CUST-0335,Thailand,SMB,Data Analytics,Southeast Asia,3618.38,1409.7
+2025-11-26,CUST-0323,Australia,Mid-Market,Cybersecurity,ANZ,12153.26,5441.34
+2025-01-07,CUST-0163,UAE,SMB,Cloud Storage,Middle East,3107.58,1086.52
+2025-05-25,CUST-0045,Singapore,SMB,Data Analytics,Southeast Asia,5703.55,2050.79
+2025-08-28,CUST-0272,Thailand,Mid-Market,Cybersecurity,Southeast Asia,5932.26,3189.05
+2025-12-05,CUST-0244,New Zealand,Mid-Market,Cloud Storage,ANZ,6518.21,1953.63
+2025-12-06,CUST-0088,UAE,SMB,Cloud Storage,Middle East,3935.28,1679.53
+2025-08-29,CUST-0147,Malaysia,Mid-Market,Cybersecurity,Southeast Asia,7042.84,3705.29
+2025-10-08,CUST-0185,UAE,Mid-Market,Cloud Compute,Middle East,11049.64,5593.53
+2025-07-04,CUST-0277,Singapore,SMB,Cybersecurity,Southeast Asia,7589.84,2741.76
+2025-10-04,CUST-0262,Thailand,Enterprise,Cybersecurity,Southeast Asia,11265.21,4137.77
+2025-12-16,CUST-0281,New Zealand,Mid-Market,Cloud Compute,ANZ,7384.06,2115.3
+2025-04-16,CUST-0083,Thailand,Mid-Market,Cloud Storage,Southeast Asia,3464.31,1867.81
+2025-04-24,CUST-0171,New Zealand,Mid-Market,Cybersecurity,ANZ,8291.12,3202.66
+2025-08-11,CUST-0350,Australia,SMB,Cloud Compute,ANZ,6004.76,1793.07
+2025-07-08,CUST-0093,UAE,SMB,Data Analytics,Middle East,7514.02,2156.6
+2025-05-25,CUST-0224,Australia,Mid-Market,SaaS Platform,ANZ,6960.64,2764.54
+2025-02-07,CUST-0284,Singapore,Mid-Market,Cloud Compute,Southeast Asia,7782.94,3787.6
+2025-12-02,CUST-0098,Australia,SMB,Cloud Compute,ANZ,6231.34,2234.64
+2025-01-18,CUST-0223,UAE,SMB,Cloud Storage,Middle East,3478.49,1468.4
+2025-07-07,CUST-0225,Australia,SMB,Cloud Compute,ANZ,6393.77,1990.62
+2025-03-24,CUST-0162,UAE,Mid-Market,Cloud Storage,Middle East,6714.7,2528.92
+2025-04-11,CUST-0250,Australia,SMB,Cloud Compute,ANZ,3262.31,925.81
+2025-11-03,CUST-0001,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,7075.09,3032.9
+2025-06-28,CUST-0283,Malaysia,Mid-Market,Cybersecurity,Southeast Asia,7027.61,2923.86
+2025-11-25,CUST-0176,Australia,SMB,Cybersecurity,ANZ,6755.44,2206.07
+2025-01-24,CUST-0114,Malaysia,Enterprise,Data Analytics,Southeast Asia,9999.31,4902.48
+2025-10-20,CUST-0290,UAE,Mid-Market,Data Analytics,Middle East,15333.82,6095.48
+2025-08-31,CUST-0143,Australia,Enterprise,Data Analytics,ANZ,13976.4,7018.23
+2025-10-01,CUST-0058,Malaysia,SMB,Cybersecurity,Southeast Asia,5203.24,1832.58
+2025-11-24,CUST-0148,Thailand,SMB,SaaS Platform,Southeast Asia,3883.75,2146.63
+2025-05-21,CUST-0264,Thailand,Mid-Market,SaaS Platform,Southeast Asia,4768.53,2652.43
+2025-06-07,CUST-0023,Australia,SMB,Cloud Storage,ANZ,3387.59,1066.19
+2025-01-20,CUST-0080,Thailand,Enterprise,SaaS Platform,Southeast Asia,7612.49,3297.16
+2025-06-27,CUST-0127,Singapore,Mid-Market,Data Analytics,Southeast Asia,8811.91,4049.11
+2025-12-24,CUST-0221,Australia,SMB,SaaS Platform,ANZ,6141.83,1808.37
+2025-05-20,CUST-0343,Thailand,Mid-Market,Data Analytics,Southeast Asia,6801.72,2642.31
+2025-06-11,CUST-0231,Thailand,Mid-Market,SaaS Platform,Southeast Asia,5524.08,1662.3
+2025-06-21,CUST-0312,Singapore,Mid-Market,Cloud Compute,Southeast Asia,7677.79,2206.65
+2025-11-11,CUST-0001,Thailand,SMB,Cloud Compute,Southeast Asia,4515.15,1978.24
+2025-03-12,CUST-0234,New Zealand,SMB,Cloud Compute,ANZ,4438.91,1933.15
+2025-12-15,CUST-0014,UAE,SMB,Cloud Compute,Middle East,8456.46,3774.75
+2025-04-21,CUST-0212,Australia,Enterprise ,SaaS Platform,ANZ,13986.23,7120.37
+2025-09-06,CUST-0112,New Zealand,Enterprise,SaaS Platform,ANZ,13051.55,6655.49
+2025-09-24,CUST-0248,Thailand,SMB,SaaS Platform,Southeast Asia,2816.18,1472.54
+2025-01-19,CUST-0149,Thailand,Mid-Market,SaaS Platform,Southeast Asia,5023.49,2171.42
+2025-10-17,CUST-0073,Malaysia,SMB,Data Analytics,Southeast Asia,2579.72,985.65
+2025-11-09,CUST-0179,Singapore,Mid-Market,Cloud Storage,Southeast Asia,5771.74,2019.12
+2025-11-29,CUST-0290,Australia,Mid-Market,Cloud Compute,ANZ,7888.87,2283.56
+2025-02-01,CUST-0346,New Zealand,Mid-Market,Data Analytics,ANZ,6122.87,3509.52
+2025-06-06,CUST-0246,Singapore,Mid-Market,Cloud Compute,Southeast Asia,9448.27,3285.09
+2025-02-23,CUST-0198,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,4737.12,2709.08
+2025-04-16,CUST-0072,Australia,Mid-Market,SaaS Platform,ANZ,4661.52,2658.72
+2025-07-21,CUST-0114,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,5658.14,2892.62
+2025-10-07,CUST-0020,UAE,Mid-Market,Data Analytics,Middle East,6695.4,2280.01
+2025-01-12,CUST-0110,UAE,SMB,Data Analytics,Middle East,5854.05,1895.73
+2025-03-01,CUST-0033,Australia,SMB,Cybersecurity,ANZ,6303.59,2952.95
+2025-01-19,CUST-0187,UAE,SMB,Cybersecurity,Middle East,5429.81,2549.23
+2025-10-29,CUST-0315,Australia,SMB,Cybersecurity,ANZ,6025.31,2772.73
+2025-05-22,CUST-0187,Australia,Mid-Market,SaaS Platform,ANZ,8405.61,2356.97
+2025-05-18,CUST-0071,New Zealand,Enterprise,Cloud Compute,ANZ,,3607.79
+2025-04-12,CUST-0196,Malaysia,Enterprise,SaaS Platform,Southeast Asia,9002.9,4919.42
+2025-06-28,CUST-0054,Malaysia,Mid-Market,Data Analytics,Southeast Asia,7876.91,4549.91
+2025-03-23,CUST-0051,Singapore,SMB,Cloud Compute,Southeast Asia,4474.96,1424.28
+2025-01-06,CUST-0319,Thailand,SMB,Cloud Compute,Southeast Asia,3527.36,1171.25
+2025-07-28,CUST-0132,New Zealand,Mid-Market,Cloud Compute,ANZ,5999.19,1884.15
+2025-02-07,CUST-0324,Australia,Mid-Market,Cloud Storage,ANZ,3763.77,1408.46
+2025-09-28,CUST-0169,Singapore,Enterprise,Data Analytics,Southeast Asia,20080.0,11069.76
+2025-06-18,CUST-0085,UAE,Mid-Market,Cloud Storage,Middle East,6494.36,2019.95
+2025-04-18,CUST-0309,UAE,Mid-Market,Cloud Compute,Middle East,6738.5,2473.85
+2025-11-15,CUST-0051,Singapore,SMB,Cloud Storage,Southeast Asia,3695.72,2105.55
+2025-09-03,CUST-0011,Thailand,Mid-Market,Cloud Storage,Southeast Asia,3803.51,1666.23
+2025-10-08,CUST-0104,UAE,SMB,Data Analytics,Middle East,7095.88,3580.61
+2025-10-27,CUST-0220,UAE,SMB,Data Analytics,Middle East,5415.66,1574.58
+2025-12-03,CUST-0179,Singapore,Enterprise,Data Analytics,Southeast Asia,22939.37,7657.83
+2025-07-08,CUST-0230,Singapore,Mid-Market,Data Analytics,Southeast Asia,12566.1,6881.93
+2025-01-24,CUST-0144,Australia,Enterprise,Cloud Storage,ANZ,6603.46,2049.17
+2025-12-27,CUST-0080,Thailand,Enterprise,Cybersecurity,Southeast Asia,14261.05,6240.4
+2025-10-19,CUST-0337,Thailand,Mid-Market,Data Analytics,Southeast Asia,7159.69,3488.36
+2025-07-06,CUST-0052,Australia,SMB,Data Analytics,ANZ,5060.84,2125.66
+2025-10-06,CUST-0120,Thailand,Mid-Market,Cybersecurity,Southeast Asia,7774.69,3937.85
+2025-12-15,CUST-0344,Thailand,Mid-Market,SaaS Platform,Southeast Asia,5748.05,1636.67
+2025-10-17,CUST-0252,UAE,SMB,Cybersecurity,Middle East,7442.39,2260.21
+2025-02-10,CUST-0259,New Zealand,Mid-Market,Data Analytics,ANZ,4877.38,2774.23
+2025-04-09,CUST-0269,UAE,Mid-Market,Cloud Storage,Middle East,4885.68,2488.94
+2025-06-17,CUST-0020,New Zealand,SMB,Cloud Storage,ANZ,3050.46,1328.7
+2025-01-03,CUST-0189,Australia,Enterprise,Data Analytics,ANZ,14718.53,8532.94
+2025-12-28,CUST-0151,Malaysia,Enterprise,Cloud Storage,Southeast Asia,7267.8,3556.68
+2025-09-05,CUST-0126,Thailand,SMB,Cloud Compute,Southeast Asia,3188.86,1215.5
+2025-01-12,CUST-0163,Malaysia,SMB,Cybersecurity,Southeast Asia,3858.93,1607.37
+2025-06-08,CUST-0164,UAE,Mid-Market,Data Analytics,Middle East,10270.0,2936.35
+2025-02-05,CUST-0078,Malaysia,SMB,Cybersecurity,Southeast Asia,2875.32,1523.44
+2025-09-16,CUST-0259,Singapore,Mid-Market,Cybersecurity,Southeast Asia,9199.6,3901.04
+2025-01-10,CUST-0105,Thailand,Enterprise,SaaS Platform,Southeast Asia,9033.63,4642.98
+2025-09-13,CUST-0105,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,6871.12,3833.48
+2025-01-23,CUST-0134,Australia,SMB,Cloud Storage,ANZ,2815.89,1478.66
+2025-08-07,CUST-0019,Thailand,Enterprise,Cybersecurity,Southeast Asia,8720.83,3378.81
+2025-02-21,CUST-0177,Singapore,Enterprise,Cloud Compute,Southeast Asia,10499.59,4624.02
+2025-05-21,CUST-0171,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,3584.98,1270.86
+2025-05-15,CUST-0345,Thailand,Enterprise,Cloud Compute,Southeast Asia,9176.04,3754.87
+2025-04-29,CUST-0249,New Zealand,SMB,Data Analytics,ANZ,4215.46,1984.58
+2025-01-21,CUST-0284,Singapore,Mid-Market,Cybersecurity,Southeast Asia,7403.18,2240.62
+2025-09-20,CUST-0127,Australia,Mid-Market,Cybersecurity,ANZ,9780.57,4461.1
+2025-10-10,CUST-0180,UAE,Mid-Market,Cloud Compute,Middle East,9497.49,5249.69
+2025-06-12,CUST-0103,Malaysia,SMB,Cloud Storage,Southeast Asia,1814.13,996.57
+2025-05-28,CUST-0036,Singapore,Mid-Market,Cybersecurity,Southeast Asia,9615.83,3102.16
+2025-11-05,CUST-0321,Australia,SMB,Cloud Storage,ANZ,3242.67,1613.2
+2025-12-11,CUST-0038,Thailand,Mid-Market,Cloud Storage,Southeast Asia,3964.24,2030.98
+2025-08-30,CUST-0232,Australia,SMB,Cloud Compute,ANZ,3907.26,1967.34
+2025-08-08,CUST-0235,Singapore,SMB,SaaS Platform,Southeast Asia,4636.39,2647.9
+2025-04-28,CUST-0279,Australia,SMB,SaaS Platform,ANZ,4517.76,2520.12
+2025-01-06,CUST-0078,UAE,Mid-Market,Cloud Storage,Middle East,4811.45,1781.82
+2025-01-02,CUST-0089,Singapore,Mid-Market,Cloud Storage,Southeast Asia,6421.65,2966.18
+2025-06-22,CUST-0086,Australia,Enterprise,SaaS Platform,ANZ,14133.19,7385.01
+2025-12-21,CUST-0052,Australia,Enterprise,SaaS Platform,ANZ,18888.42,9203.2
+2025-11-29,CUST-0265,Malaysia,SMB,Cloud Storage,Southeast Asia,3524.84,2021.57
+2025-11-11,CUST-0234,Thailand,SMB,Cloud Storage,Southeast Asia,2381.52,895.18
+2025-02-22,CUST-0176,Singapore,Enterprise,Data Analytics,Southeast Asia,18300.19,6271.08
+2025-05-25,CUST-0343,New Zealand,SMB,Cloud Storage,ANZ,2888.73,1144.52
+2025-12-28,CUST-0154,Thailand,Mid-Market,Cloud Compute,Southeast Asia,6380.63,1935.73
+2025-11-22,CUST-0199,Singapore,Mid-Market,Cloud Compute,Southeast Asia,10305.16,5325.54
+2025-10-19,CUST-0226,Australia,Enterprise,SaaS Platform,ANZ,16297.06,7883.52
+2025-02-11,CUST-0067,UAE,SMB,Data Analytics,Middle East,5911.24,2049.93
+2025-11-21,CUST-0117,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,6440.96,3184.03
+2025-04-03,CUST-0228,Australia,Enterprise,Cloud Storage,ANZ,7854.43,2462.68
+2025-09-04,CUST-0205,New Zealand,Mid-Market,Cloud Compute,ANZ,8348.83,4311.56
+2025-03-05,CUST-0094,New Zealand,SMB,Cloud Storage,ANZ,2766.01,1049.52
+2025-07-31,CUST-0052,Singapore,Mid-Market,Cloud Storage,Southeast Asia,5368.11,2061.69
+2025-06-06,CUST-0068,malaysia,SMB,Cloud Storage,ANZ,2996.01,1286.61
+2025-06-17,CUST-0292,New Zealand,SMB,Data Analytics,ANZ,3715.97,1442.63
+2025-08-18,CUST-0247,UAE,SMB,Data Analytics,Middle East,5856.1,2447.07
+2025-11-06,CUST-0131,Australia,Enterprise,Data Analytics,ANZ,13666.24,6289.31
+2025-05-08,CUST-0112,Thailand,Mid-Market,Data Analytics,Southeast Asia,7798.37,2504.8
+2025-03-12,CUST-0098,Malaysia,Mid-Market,Data Analytics,Southeast Asia,6155.31,2782.85
+2025-04-21,CUST-0334,Thailand,Mid-Market,Cybersecurity,Southeast Asia,5568.32,2969.22
+2025-07-04,CUST-0327,Thailand,Mid-Market,SaaS Platform,Southeast Asia,4656.93,1666.89
+2025-05-18,CUST-0034,Singapore,SMB,Data Analytics,Southeast Asia,7717.95,4388.82
+2025-09-10,CUST-0327,Malaysia,SMB,SaaS Platform,Southeast Asia,3001.42,1335.31
+2025-08-02,CUST-0158,Malaysia,Enterprise,Cloud Storage,Southeast Asia,7391.99,2685.04
+2025-01-29,CUST-0128,Malaysia,SMB,SaaS Platform,Southeast Asia,3208.02,1531.82
+2025-09-07,CUST-0144,Thailand,Enterprise,Cloud Compute,Southeast Asia,9981.04,4766.11
+2025-02-13,CUST-0289,UAE,SMB,Cloud Storage,Middle East,3174.04,1073.85
+2025-04-21,CUST-0151,Thailand,SMB,Cybersecurity,Southeast Asia,4407.28,1739.91
+2025-10-16,CUST-0267,UAE,Mid-Market,Data Analytics,Middle East,11359.12,4670.08
+2025-10-10,CUST-0034,Thailand,SMB,Cloud Compute,Southeast Asia,4228.95,1857.98
+2025-04-24,CUST-0240,New Zealand,Mid-Market,Cybersecurity,ANZ,7277.91,3797.47
+2025-04-29,CUST-0326,Singapore,Enterprise,Cybersecurity,Southeast Asia,12257.37,6798.0
+2025-07-04,CUST-0283,Malaysia,SMB,SaaS Platform,Southeast Asia,3906.1,2030.63
+2025-04-12,CUST-0016,UAE,Mid-Market,Cloud Storage,Middle East,4116.91,1851.82
+2025-10-13,CUST-0041,Australia,Enterprise,Cybersecurity,ANZ,14257.44,6305.16
+2025-11-12,CUST-0002,UAE,Mid-Market,Cloud Compute,Middle East,9063.83,3816.69
+2025-06-15,CUST-0225,Singapore,Enterprise,Cloud Compute,Southeast Asia,12966.63,6289.03
+2025-11-19,CUST-0074,Thailand,SMB,Cloud Storage,Southeast Asia,2701.82,998.95
+2025-10-24,CUST-0184,Thailand,Enterprise,Cloud Storage,Southeast Asia,6375.56,2675.41
+2025-07-24,CUST-0261,UAE,Mid-Market,Cloud Storage,Middle East,4151.94,1523.3
+2025-04-16,CUST-0331,New Zealand,SMB,Cloud Compute,ANZ,3777.39,1927.24
+2025-06-05,CUST-0299,Singapore,Enterprise,Data Analytics,Southeast Asia,20401.93,
+2025-01-23,CUST-0015,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,4506.67,1719.11
+2025-12-18,CUST-0230,Singapore,Mid-Market,SaaS Platform,Southeast Asia,9576.82,2706.88
+2025-12-28,CUST-0212,New Zealand,Enterprise,Cybersecurity,ANZ,11840.33,6387.35
+2025-10-20,CUST-0224,UAE,SMB,SaaS Platform,Middle East,6555.29,3419.68
+2025-07-26,CUST-0073,Australia,Enterprise,Data Analytics,ANZ,13297.14,6989.8
+2025-08-04,CUST-0190,Malaysia,SMB,Data Analytics,Southeast Asia,5040.86,2785.45
+2025-05-25,CUST-0336,Singapore,Mid-Market,Data Analytics,Southeast Asia,9583.84,3099.81
+2025-10-21,CUST-0128,Singapore,SMB,SaaS Platform,Southeast Asia,6015.59,2180.7
+2025-12-18,CUST-0183,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,2773.57,843.41
+2025-09-02,CUST-0240,Thailand,SMB,SaaS Platform,Southeast Asia,3173.15,1019.53
+2025-11-01,CUST-0130,Malaysia,SMB,Cloud Compute,Southeast Asia,4893.45,1413.4
+2025-08-01,CUST-0281,Australia,Enterprise,SaaS Platform,ANZ,10640.95,4455.63
+2025-11-03,CUST-0300,Australia,Mid-Market,Data Analytics,ANZ,9204.01,5050.68
+2025-05-24,CUST-0224,Malaysia,Mid-Market,Data Analytics,Southeast Asia,7620.01,4027.87
+2025-07-08,CUST-0119,Thailand,Enterprise,Data Analytics,Southeast Asia,11106.25,5336.61
+2025-01-11,CUST-0325,New Zealand,Enterprise,Cybersecurity,ANZ,12218.55,4265.64
+2025-03-25,CUST-0006,Australia,SMB,Cloud Storage,ANZ,2336.34,791.21
+2025-12-01,CUST-0280,UAE,Mid-Market,Data Analytics,Middle East,12587.23,5025.31
+2025-12-05,CUST-0124,UAE,SMB,Cloud Storage,Middle East,4066.56,1431.28
+2025-11-11,CUST-0005,New Zealand,Enterprise,Cybersecurity,ANZ,14982.1,6521.76
+2025-07-04,CUST-0232,Thailand,Mid-Market,Cloud Storage,Southeast Asia,3293.81,1420.15
+2025-04-24,CUST-0303,New Zealand,SMB,Data Analytics,ANZ,4664.24,2009.22
+2025-09-23,CUST-0051,Thailand,SMB,Data Analytics,Southeast Asia,4695.06,1328.07
+2025-11-24,CUST-0029,Australia,Mid-Market,Cloud Compute,ANZ,8736.27,4660.6
+2025-10-11,CUST-0117,Malaysia,SMB,Data Analytics,Southeast Asia,6867.64,2701.33
+2025-11-11,CUST-0332,Singapore,SMB,Cloud Storage,Southeast Asia,3876.44,1700.55
+2025-12-28,CUST-0035,UAE,SMB,Cloud Storage,Middle East,3816.75,1074.66
+2025-07-14,CUST-0091,New Zealand,Enterprise,Cloud Compute,ANZ,7453.11,3447.95
+2025-04-07,CUST-0250,Thailand,Enterprise,SaaS Platform,Southeast Asia,7246.26,4098.7
+2025-10-08,CUST-0061,Thailand,Mid-Market,Cloud Storage,Southeast Asia,2812.75,1469.78
+2025-03-09,CUST-0295,UAE,Mid-Market,Cloud Compute,Middle East,9347.41,4630.44
+2025-03-18,CUST-0127,New Zealand,Enterprise,Data Analytics,ANZ,14994.01,5390.17
+2025-06-14,CUST-0303,UAE,SMB,Cybersecurity,Middle East,4528.31,1955.47
+2025-05-27,CUST-0333,new zealand,Enterprise,SaaS Platform,Southeast Asia,14845.62,7976.24
+2025-11-19,CUST-0332,Malaysia,Enterprise,Cloud Storage,Southeast Asia,8651.71,2795.41
+2025-12-21,CUST-0002,UAE,SMB,Cloud Compute,Middle East,5485.89,2525.33
+2025-02-13,CUST-0222,Malaysia,SMB,Cloud Compute,Southeast Asia,3157.46,1331.64
+2025-11-13,CUST-0051,Singapore,Enterprise,Data Analytics,Southeast Asia,25473.45,13046.89
+2025-02-03,CUST-0017,Australia,Enterprise,Cloud Storage,ANZ,8573.14,3121.39
+2025-03-18,CUST-0018,New Zealand,Mid-Market,Cloud Storage,ANZ,4223.97,1816.7
+2025-04-16,CUST-0263,UAE,Mid-Market,Cloud Compute,Middle East,8896.64,4533.22
+2025-06-30,CUST-0142,Australia,Mid-Market,SaaS Platform,ANZ,8630.98,4081.15
+2025-09-13,CUST-0185,UAE,Mid-Market,SaaS Platform,Middle East,6925.23,2480.2
+2025-03-15,CUST-0108,UAE,SMB,Cybersecurity,Middle East,6194.2,2044.65
+2025-01-27,CUST-0136,Thailand,SMB,Cloud Compute,Southeast Asia,2511.75,746.12
+2025-09-13,CUST-0188,Australia,Enterprise,Cloud Storage,ANZ,11417.14,4812.42
+2025-02-28,CUST-0154,New Zealand,SMB,Cloud Storage,ANZ,3591.94,1484.57
+2025-04-02,CUST-0056,Thailand,Mid-Market,Cloud Storage,Southeast Asia,4086.85,1373.11
+2025-07-06,CUST-0272,Malaysia,SMB,Cloud Compute,Southeast Asia,3507.5,1417.11
+2025-10-31,CUST-0119,Thailand,Mid-Market,Cloud Compute,Southeast Asia,6206.78,2137.26
+2025-01-31,CUST-0263,Thailand,SMB,Cybersecurity,Southeast Asia,2557.49,1212.78
+2025-08-16,CUST-0093,UAE,SMB,SaaS Platform,Middle East,3514.21,1291.7
+2025-06-17,CUST-0027,New Zealand,Mid-Market,SaaS Platform,ANZ,5455.3,3003.62
+2025-01-30,CUST-0334,Malaysia,Enterprise,Cloud Compute,Southeast Asia,8943.0,5109.34
+2025-09-17,CUST-0053,Singapore,Enterprise,Cloud Compute,Southeast Asia,19173.92,9411.88
+2025-10-29,CUST-0247,Australia,SMB,Cybersecurity,ANZ,4307.69,1257.36
+2025-06-06,CUST-0069,Singapore,SMB,Cloud Storage,Southeast Asia,4385.73,1904.1
+2025-08-03,CUST-0039,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,3877.47,1860.9
+2025-12-14,CUST-0196,Australia,SMB,Cloud Compute,ANZ,4768.62,1836.66
+2025-02-28,CUST-0115,Australia,Enterprise,SaaS Platform,ANZ,10388.72,4052.78
+2025-10-28,CUST-0280,Australia,SMB,Data Analytics,ANZ,8834.72,3262.61
+2025-01-27,CUST-0163,UAE,Enterprise,SaaS Platform,Middle East,13114.06,7274.42
+2025-01-24,CUST-0035,Singapore,Mid-Market,Cloud Compute,Southeast Asia,5957.51,1860.51
+2025-07-23,CUST-0066,Singapore,Mid-Market,SaaS Platform,Southeast Asia,8860.51,4363.58
+2025-07-31,CUST-0339,Singapore,SMB,SaaS Platform,Southeast Asia,5761.04,2809.57
+2025-06-11,CUST-0062,Australia ,SMB,Cybersecurity,Southeast Asia,3296.21,1213.39
+2025-09-21,CUST-0242,UAE,SMB,Data Analytics,Middle East,6834.16,3016.9
+2025-09-21,CUST-0251,Thailand,Enterprise,Cloud Compute,Southeast Asia,12207.46,4727.87
+2025-07-04,CUST-0208,Australia,Enterprise,SaaS Platform,ANZ,11604.09,5611.64
+2025-02-09,CUST-0313,Australia,SMB,Data Analytics,ANZ,5726.13,2982.95
+2025-06-13,CUST-0285,UAE,Mid-Market,Data Analytics,Middle East,13115.27,5556.78
+2025-06-09,CUST-0135,Thailand,Enterprise,Cybersecurity,Southeast Asia,9407.17,3191.08
+2025-08-09,CUST-0158,Thailand,SMB,Cybersecurity,Southeast Asia,4476.47,1792.58
+2025-01-01,CUST-0157,UAE,Mid-Market,Cloud Storage,Middle East,3649.94,1046.85
+2025-05-01,CUST-0332,Malaysia,SMB,SaaS Platform,Southeast Asia,3149.2,1486.81
+2025-06-29,CUST-0145,UAE,Mid-Market,Cloud Storage,Middle East,5301.13,2663.99
+2025-06-02,CUST-0076,Australia,SMB,SaaS Platform,ANZ,3233.62,1209.97
+2025-03-15,CUST-0203,Singapore,Enterprise,Cloud Storage,Southeast Asia,8044.27,3977.27
+2025-07-21,CUST-0312,Australia,SMB,Cloud Compute,ANZ,5920.19,2304.86
+2025-12-26,CUST-0263,New Zealand,Enterprise,Data Analytics,ANZ,18822.24,9343.51
+2025-04-18,CUST-0046,Australia,Enterprise,Cloud Storage,ANZ,10648.33,4139.22
+2025-09-23,CUST-0293,Thailand,Mid-Market,Cloud Compute,Southeast Asia,5333.59,2945.61
+2025-01-27,CUST-0280,Thailand,SMB,Data Analytics,Southeast Asia,4739.98,2473.72
+2025-10-31,CUST-0203,Singapore,SMB,Cloud Compute,Southeast Asia,6736.72,1920.32
+2025-02-04,CUST-0035,UAE,SMB,Cybersecurity,Middle East,5702.54,2748.83
+2025-06-30,CUST-0173,Thailand,SMB,Data Analytics,Southeast Asia,4769.57,1455.53
+2025-11-13,CUST-0010,Thailand,SMB,Cybersecurity,Southeast Asia,4676.32,1714.2
+2025-07-21,CUST-0333,Australia,Enterprise,Cloud Storage,ANZ,8347.89,4351.95
+2025-09-27,CUST-0290,Australia,Enterprise,Data Analytics,ANZ,21953.54,6698.26
+2025-06-11,CUST-0169,New Zealand,Enterprise,Cybersecurity,ANZ,10253.47,5532.4
+2025-12-09,CUST-0342,Singapore,Enterprise,Cybersecurity,Southeast Asia,22867.47,7341.1
+2025-06-25,CUST-0152,Singapore,SMB,Data Analytics,Southeast Asia,7314.61,3445.07
+2025-09-26,CUST-0079,New Zealand,Mid-Market,Cloud Compute,ANZ,6448.85,3037.71
+2025-07-04,CUST-0017,Australia,SMB,Data Analytics,ANZ,7183.37,2578.95
+2025-11-08,CUST-0247,Singapore,Mid-Market,Cybersecurity,Southeast Asia,10160.37,4567.17
+2025-12-26,CUST-0267,Singapore,SMB,Cloud Compute,Southeast Asia,6882.54,3887.67
+2025-12-29,CUST-0269,Australia,Enterprise,Cloud Compute,ANZ,11830.1,4319.64
+2025-10-07,CUST-0257,Australia,SMB,Cybersecurity,ANZ,5383.92,2509.99
+2025-03-07,CUST-0019,New Zealand,Mid-Market,SaaS Platform,ANZ,4962.58,1856.67
+2025-05-29,CUST-0295,Malaysia,Enterprise,Cloud Compute,Southeast Asia,9886.51,3049.68
+2025-03-17,CUST-0167,Singapore,SMB,Cloud Storage,Southeast Asia,3471.66,1559.41
+2025-09-22,CUST-0241,New Zealand,Mid-Market,SaaS Platform,ANZ,5041.46,2554.21
+2025-04-27,CUST-0002,Uae,Enterprise,Cybersecurity,Southeast Asia,12442.19,6843.33
+2025-03-04,CUST-0063,Singapore,SMB,Data Analytics,Southeast Asia,5708.5,2352.67
+2025-12-14,CUST-0258,New Zealand,Enterprise,Cloud Compute,ANZ,13039.05,4814.92
+2025-06-24,CUST-0190,Malaysia,Mid-Market,Data Analytics,Southeast Asia,8149.02,4108.5
+2025-06-11,CUST-0222,Singapore,Enterprise,Cybersecurity,Southeast Asia,15927.39,5175.54
+2025-06-17,CUST-0344,Malaysia,Mid-Market,Data Analytics,Southeast Asia,6513.05,1874.58
+2025-03-03,CUST-0267,Australia,Mid-Market,Cybersecurity,ANZ,7658.24,2685.51
+2025-04-16,CUST-0343,Thailand,Enterprise,Cybersecurity,Southeast Asia,8106.65,3916.99
+2025-07-14,CUST-0011,Thailand,SMB,SaaS Platform,Southeast Asia,3875.12,1605.2
+2025-07-06,CUST-0292,Thailand,SMB,Cloud Compute,Southeast Asia,4114.64,1589.76
+2025-02-11,CUST-0121,Australia,Mid-Market,SaaS Platform,ANZ,4562.47,1565.01
+2025-04-04,CUST-0287,Singapore,Enterprise,Cloud Storage,Southeast Asia,5461.03,3003.84
+2025-07-28,CUST-0272,Australia,Mid-Market,Cloud Storage,ANZ,6435.64,3548.91
+2025-03-01,CUST-0199,New Zealand,Enterprise,SaaS Platform,ANZ,8819.73,4197.38
+2025-08-12,CUST-0066,Australia,SMB,SaaS Platform,ANZ,4291.81,1345.77
+2025-03-25,CUST-0239,UAE,SMB,Cloud Storage,Middle East,4628.35,1907.65
+2025-12-03,CUST-0208,Singapore,Enterprise,Cloud Storage,Southeast Asia,13638.19,7097.15
+2025-08-29,CUST-0036,Australia,Enterprise,Cybersecurity,ANZ,15222.1,4913.27
+2025-11-26,CUST-0121,Singapore,Enterprise,SaaS Platform,Southeast Asia,15932.34,7764.12
+2025-11-02,CUST-0186,New Zealand,Enterprise,Cloud Storage,ANZ,10543.03,5312.98
+2025-02-09,CUST-0316,Australia,Enterprise,Cloud Compute,ANZ,12027.24,3816.88
+2025-08-04,CUST-0301,Australia,SMB,SaaS Platform,ANZ,5170.93,2477.93
+2025-05-10,CUST-0279,Singapore,Mid-Market,Cloud Storage,Southeast Asia,3850.4,1880.35
+2025-12-29,CUST-0192,Australia,Enterprise,SaaS Platform,ANZ,,8969.96
+2025-04-01,CUST-0076,Singapore,Enterprise,Cloud Compute,Southeast Asia,10157.52,3158.83
+2025-06-04,CUST-0349,Singapore,Mid-Market,Cybersecurity,Southeast Asia,13438.67,5199.21
+2025-12-20,CUST-0211,Malaysia,Enterprise,SaaS Platform,Southeast Asia,13304.82,4128.41
+2025-07-02,CUST-0322,Australia,SMB,Cloud Compute,ANZ,5907.05,2270.51
+2025-01-08,CUST-0334,New Zealand,Mid-Market,Cloud Storage,ANZ,4628.73,1638.22
+2025-07-02,CUST-0301,Australia,SMB,Cloud Storage,ANZ,2631.14,1470.88
+2025-07-12,CUST-0003,New Zealand,SMB,Cloud Storage,ANZ,3817.91,2111.18
+2025-04-15,CUST-0117,Australia,Enterprise,Cybersecurity,ANZ,17643.58,6990.28
+2025-04-23,CUST-0219,Thailand,Mid-Market,Data Analytics,Southeast Asia,7034.17,3727.97
+2025-07-13,CUST-0145,Thailand,Mid-Market,Cloud Storage,Southeast Asia,3062.09,1648.65
+2025-11-11,CUST-0045,New Zealand,SMB,Cloud Storage,ANZ,3618.81,1386.32
+2025-06-11,CUST-0342,Australia,Enterprise,Data Analytics,ANZ,19998.26,6325.65
+2025-02-23,CUST-0253,UAE,Mid-Market,Cybersecurity,Middle East,6521.76,3537.99
+2025-07-03,CUST-0178,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,3735.64,2131.1
+2025-04-19,CUST-0094,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,5522.83,2697.98
+2025-05-10,CUST-0211,Malaysia,Mid-Market,Data Analytics,Southeast Asia,6090.07,2366.04
+2025-06-24,CUST-0296,Thailand,SMB,Data Analytics,Southeast Asia,6220.33,2975.93
+2025-03-21,CUST-0188,Singapore,Enterprise,Cloud Compute,Southeast Asia,15213.51,8299.48
+2025-12-01,CUST-0261,UAE,Mid-Market,SaaS Platform,Middle East,8524.75,4189.51
+2025-09-30,CUST-0087,Australia,Mid-Market,SaaS Platform,ANZ,7867.68,3791.42
+2025-09-04,CUST-0242,Australia,Mid-Market,SaaS Platform,ANZ,7832.4,2556.2
+2025-07-11,CUST-0089,UAE,Mid-Market,Cloud Storage,Middle East,6498.21,2969.6
+2025-09-01,CUST-0061,New Zealand,Enterprise,Cybersecurity,ANZ,18205.07,8957.85
+2025-10-11,CUST-0292,Malaysia,SMB,Data Analytics,Southeast Asia,5026.0,2285.08
+2025-01-12,CUST-0102,Thailand,Mid-Market,Cloud Compute,Southeast Asia,4324.23,2111.33
+2025-09-29,CUST-0254,Thailand,SMB,SaaS Platform,Southeast Asia,3480.19,1508.39
+2025-08-31,CUST-0131,Singapore,Enterprise,Cybersecurity,Southeast Asia,15874.63,7527.3
+2025-06-01,CUST-0176,Singapore,SMB,Data Analytics,Southeast Asia,8011.29,3767.29
+2025-06-03,CUST-0278,Malaysia,SMB,Cybersecurity,Southeast Asia,3565.75,2003.29
+2025-05-27,CUST-0215,Malaysia,Enterprise,Cloud Compute,Southeast Asia,11852.05,6645.74
+2025-09-11,CUST-0060,New Zealand,Mid-Market,Cybersecurity,ANZ,7560.9,4227.86
+2025-10-21,CUST-0226,Australia,SMB,Cloud Storage,ANZ,1844.74,933.84
+2025-04-12,CUST-0032,Malaysia,SMB,SaaS Platform,Southeast Asia,3280.03,1207.54
+2025-06-12,CUST-0011,Australia,Mid-Market,Cloud Storage,ANZ,2527.56,1275.75
+2025-04-23,CUST-0056,New Zealand,SMB,Cloud Compute,ANZ,3682.12,1034.14
+2025-12-20,CUST-0184,Singapore,Enterprise,Data Analytics,Southeast Asia,21669.4,6965.41
+2025-11-03,CUST-0142,Australia,SMB,Cloud Storage,ANZ,3421.9,1366.12
+2025-06-24,CUST-0116,Thailand,Mid-Market,Cybersecurity,Southeast Asia,6973.41,2943.37
+2025-11-14,CUST-0308,UAE,SMB,Cloud Compute,Middle East,6075.62,3129.5
+2025-08-25,CUST-0055,Thailand,Mid-Market,Cloud Compute,Southeast Asia,5607.64,1985.2
+2025-02-24,CUST-0272,UAE,Mid-Market,Cybersecurity,Middle East,8443.33,4577.42
+2025-12-24,CUST-0209,Singapore,SMB,Cloud Compute,Southeast Asia,3450.08,1477.41
+2025-08-18,CUST-0236,Singapore,Mid-Market,Cybersecurity,Southeast Asia,9194.9,2651.14
+2025-08-29,CUST-0183,Thailand,SMB,Data Analytics,Southeast Asia,5684.06,3050.59
+2025-09-09,CUST-0146,Australia,SMB,Data Analytics,ANZ,7573.07,2249.49
+2025-02-16,CUST-0145,New Zealand,Mid-Market,SaaS Platform,ANZ,5947.46,3126.23
+2025-03-06,CUST-0089,Thailand,Enterprise,Data Analytics,Southeast Asia,12780.43,4710.92
+2025-06-12,CUST-0108,Australia,SMB,Cloud Compute,ANZ,4830.09,1546.81
+2025-05-10,CUST-0109,Malaysia,SMB,Cloud Compute,Southeast Asia,3865.72,1206.55
+2025-01-17,CUST-0240,Thailand,SMB,Cloud Compute,Southeast Asia,3081.88,1560.85
+2025-09-30,CUST-0277,UAE,SMB,Cybersecurity,Middle East,8478.05,3248.1
+2025-06-30,CUST-0290,Singapore,Mid-Market,Cloud Storage,Southeast Asia,4885.89,2404.58
+2025-04-14,CUST-0046,Thailand,SMB,Cloud Compute,Southeast Asia,3396.84,1795.02
+2025-03-07,CUST-0194,Thailand,SMB,Cloud Storage,Southeast Asia,1638.57,696.23
+2025-07-26,CUST-0326,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,5699.54,2168.21
+2025-09-12,CUST-0029,Singapore,SMB,Cloud Storage,Southeast Asia,3806.18,1193.44
+2025-02-02,CUST-0043,Thailand,mid-market,Cybersecurity,Southeast Asia,7174.67,3677.69
+2025-02-21,CUST-0136,Singapore,Mid-Market,Cloud Compute,Southeast Asia,7597.01,3571.1
+2025-04-22,CUST-0042,Malaysia,SMB,Cloud Compute,Southeast Asia,3851.66,1958.39
+2025-03-14,CUST-0035,New Zealand,Enterprise,SaaS Platform,ANZ,10562.42,4309.46
+2025-03-16,CUST-0069,New Zealand,Mid-Market,SaaS Platform,ANZ,6914.87,3481.99
+2025-06-24,CUST-0124,Australia,Mid-Market,Data Analytics,ANZ,11196.29,4981.18
+2025-10-01,CUST-0255,Thailand,Mid-Market,Cybersecurity,Southeast Asia,7801.46,4395.43
+2025-01-16,CUST-0192,UAE,mid-market,Cloud Storage,Middle East,4163.54,1816.78
+2025-12-15,CUST-0202,Singapore,SMB,Cloud Compute,Southeast Asia,7517.76,3551.87
+2025-04-05,CUST-0326,Australia,Enterprise,Data Analytics,ANZ,13575.36,6854.86
+2025-08-26,CUST-0176,Singapore,SMB,Cloud Storage,Southeast Asia,3527.33,1931.13
+2025-08-01,CUST-0290,Thailand,Mid-Market,Cloud Compute,Southeast Asia,6138.83,3111.24
+2025-06-21,CUST-0241,Malaysia,Mid-Market,Cybersecurity,Southeast Asia,6601.21,2328.32
+2025-08-28,CUST-0274,Malaysia,Enterprise,Cybersecurity,Southeast Asia,14864.87,7601.35
+2025-01-29,CUST-0110,Singapore,Mid-Market,Cloud Storage,Southeast Asia,4581.35,1776.33
+2025-06-25,CUST-0206,Singapore,Enterprise,Data Analytics,Southeast Asia,24376.6,12252.68
+2025-08-03,CUST-0294,Thailand,SMB,Cybersecurity,Southeast Asia,4763.63,1445.11
+2025-01-24,CUST-0220,Singapore,SMB,Cloud Compute,Southeast Asia,4383.85,1239.76
+2025-06-15,CUST-0106,Thailand,Mid-Market,Cloud Storage,Southeast Asia,3341.74,1870.33
+2025-01-19,CUST-0325,Australia,Enterprise,Data Analytics,ANZ,12027.93,5208.53
+2025-06-23,CUST-0010,Malaysia,Mid-Market,Cybersecurity,Southeast Asia,4996.22,2603.26
+2025-08-20,CUST-0072,Australia ,Enterprise,SaaS Platform,Southeast Asia,10120.24,4496.37
+2025-09-28,CUST-0118,Singapore,SMB,Data Analytics,Southeast Asia,7897.55,2678.5
+2025-02-14,CUST-0235,UAE,Enterprise,Cybersecurity,Middle East,14662.18,5127.4
+2025-07-02,CUST-0236,Singapore,SMB,SaaS Platform,Southeast Asia,6154.48,2712.6
+2025-09-14,CUST-0241,Thailand,SMB,Data Analytics,Southeast Asia,3690.66,2050.61
+2025-04-08,CUST-0238,UAE,Enterprise,Data Analytics,Middle East,20897.31,9096.91
+2025-01-29,CUST-0286,New Zealand,Mid-Market,Cloud Storage,ANZ,3709.75,1324.0
+2025-03-15,CUST-0248,Malaysia,Mid-Market,Data Analytics,Southeast Asia,5502.2,2654.01
+2025-04-20,CUST-0247,New Zealand,Mid-Market,SaaS Platform,ANZ,5453.2,1829.07
+2025-07-06,CUST-0034,UAE,Enterprise,Cloud Storage,Middle East,8866.55,4350.83
+2025-04-25,CUST-0023,Thailand,SMB,SaaS Platform,Southeast Asia,3483.9,1381.77
+2025-06-08,CUST-0072, Singapore ,SMB,SaaS Platform,Southeast Asia,5431.85,2217.86
+2025-01-04,CUST-0088,Singapore,Mid-Market,Data Analytics,Southeast Asia,7524.8,4192.39
+2025-10-12,CUST-0259,Australia,SMB,Cybersecurity,ANZ,7346.93,2359.83
+2025-07-11,CUST-0302,Thailand,Mid-Market,SaaS Platform,Southeast Asia,4410.79,2224.63
+2025-10-06,CUST-0039,Australia,SMB,Cloud Storage,ANZ,3886.6,1950.9
+2025-10-29,CUST-0108,Australia,SMB,Cloud Compute,ANZ,4416.94,2505.2
+2025-03-30,CUST-0218,Thailand,Mid-Market,SaaS Platform,Southeast Asia,4212.18,2341.65
+2025-03-25,CUST-0250,New Zealand,SMB,SaaS Platform,ANZ,3220.98,1608.18
+2025-01-15,CUST-0313,Thailand,Enterprise,SaaS Platform,Southeast Asia,6717.08,3474.93
+2025-11-19,CUST-0133,Thailand,mid-market,SaaS Platform,Southeast Asia,9703.16,3616.13
+2025-10-17,CUST-0291,UAE,SMB,Cloud Compute,Middle East,5851.2,2495.12
+2025-08-24,CUST-0099,Singapore,Mid-Market,Cloud Compute,Southeast Asia,9872.32,3140.29
+2025-08-01,CUST-0040,Malaysia,Enterprise,Cloud Storage,Southeast Asia,6440.22,2535.69
+2025-02-20,CUST-0298,UAE,Enterprise,Cybersecurity,Middle East,12785.47,4386.28
+2025-08-10,CUST-0297,Thailand,Mid-Market,Cybersecurity,Southeast Asia,5654.2,2896.97
+2025-01-12,CUST-0262,Australia,SMB,Cybersecurity,ANZ,5776.19,3270.6
+2025-07-19,CUST-0225,Thailand,Enterprise,SaaS Platform,Southeast Asia,7774.04,2451.83
+2025-09-02,CUST-0076,New Zealand,SMB,Cloud Compute,ANZ,5846.87,3225.53
+2025-12-26,CUST-0212,Singapore,Enterprise,Cloud Storage,Southeast Asia,8800.1,4909.0
+2025-03-18,CUST-0195,Thailand,Mid-Market,Data Analytics,Southeast Asia,7248.47,2428.17
+2025-06-16,CUST-0058,Thailand,SMB,Cybersecurity,Southeast Asia,3810.6,1811.5
+2025-11-10,CUST-0008,Thailand,Mid-Market,Cloud Storage,Southeast Asia,4576.33,1709.0
+2025-10-23,CUST-0122,New Zealand,Mid-Market,Cloud Compute,ANZ,7748.85,3144.42
+2025-10-02,CUST-0223,New Zealand,Enterprise,Cybersecurity,ANZ,13585.42,4896.83
+2025-04-25,CUST-0018,Singapore,SMB,Cloud Storage,Southeast Asia,3386.55,1684.24
+2025-09-20,CUST-0153,New Zealand,Mid-Market,Data Analytics,ANZ,10042.08,3165.44
+2025-03-11,CUST-0341,Australia,SMB,Cloud Compute,ANZ,4636.25,1466.99
+2025-05-21,CUST-0262,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,4788.62,2057.44
+2025-10-16,CUST-0243,New Zealand,SMB,SaaS Platform,ANZ,,1311.31
+2025-05-13,CUST-0101,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,4895.0,2058.94
+2025-02-10,CUST-0178,UAE,Mid-Market,Data Analytics,Middle East,11823.56,6665.6
+2025-05-06,CUST-0059,UAE,Mid-Market,Data Analytics,Middle East,13138.82,3776.15
+2025-10-11,CUST-0034,Singapore,Enterprise,SaaS Platform,Southeast Asia,12719.2,5496.48
+2025-09-07,CUST-0334,Singapore,Mid-Market,Cloud Compute,Southeast Asia,13290.31,7546.92
+2025-07-29,CUST-0067,Malaysia,SMB,Cloud Compute,Southeast Asia,4749.79,1826.84
+2025-03-16,CUST-0057,Thailand,SMB,Cloud Compute,Southeast Asia,3487.89,1137.31
+2025-04-08,CUST-0096,Thailand,SMB,Data Analytics,Southeast Asia,5059.58,1441.38
+2025-12-07,CUST-0258,Australia,SMB,Data Analytics,ANZ,8685.94,2937.19
+2025-10-24,CUST-0229,Singapore,Enterprise,Cybersecurity,Southeast Asia,20559.53,11899.23
+2025-05-28,CUST-0250,Thailand,Mid-Market,Cloud Compute,Southeast Asia,4421.02,2318.14
+2025-10-17,CUST-0297,UAE,SMB,Data Analytics,Middle East,7459.7,3092.42
+2025-11-15,CUST-0183,UAE,Mid-Market,Data Analytics,Middle East,13113.28,7241.63
+2025-03-15,CUST-0192,Australia,Enterprise,SaaS Platform,ANZ,13139.54,6559.54
+2025-01-19,CUST-0245,New Zealand,Mid-Market,Cybersecurity,ANZ,6097.22,1797.19
+2025-09-16,CUST-0317,New Zealand,Mid-Market,Cloud Storage,ANZ,3664.27,1575.19
+2025-10-23,CUST-0252,Malaysia,SMB,Data Analytics,Southeast Asia,4204.78,2106.83
+2025-03-02,CUST-0253,Thailand,Mid-Market,Cybersecurity,Southeast Asia,6316.73,3254.73
+2025-08-07,CUST-0019,Thailand,Enterprise,Cybersecurity,Southeast Asia,8720.83,3378.81
+2025-06-08,CUST-0072, Singapore ,SMB,SaaS Platform,Southeast Asia,5431.85,2217.86
+2025-02-15,CUST-0072,Malaysia,SMB,Cloud Compute,Southeast Asia,2682.0,933.74
+2025-07-03,CUST-0315,Singapore,SMB,SaaS Platform,Southeast Asia,4921.05,2144.65
+2025-04-27,CUST-0134,New Zealand,SMB,SaaS Platform,ANZ,4640.27,1383.36
+2025-03-08,CUST-0260,Australia,Enterprise,SaaS Platform,ANZ,11563.26,3751.26
+2025-02-14,CUST-0132,Australia,SMB,Cybersecurity,ANZ,4682.06,2373.41
+2025-09-12,CUST-0169,Thailand,Enterprise,Cloud Storage,Southeast Asia,6219.88,2034.68
+2025-12-27,CUST-0281,Australia,Mid-Market,Cloud Compute,ANZ,11561.47,5334.68
+2025-10-29,CUST-0259,Malaysia,SMB,Cloud Compute,Southeast Asia,4528.06,2062.17
+2025-06-13,CUST-0104,Thailand,Enterprise,Cloud Compute,Southeast Asia,7558.12,4259.9
+2025-09-13,CUST-0083, Singapore ,SMB,Cloud Storage,ANZ,3408.87,1031.98
+2025-04-02,CUST-0011,Malaysia,SMB,Cloud Storage,Southeast Asia,2119.09,1191.18
+2025-03-14,CUST-0005,Australia,SMB,Cloud Compute,ANZ,5570.2,2950.7
+2025-03-08,CUST-0261,Thailand,Mid-Market,Data Analytics,Southeast Asia,4101.29,1290.96
+2025-04-22,CUST-0049,UAE,SMB,Cloud Storage,Middle East,3336.94,1422.43
+2025-06-20,CUST-0127,Singapore,Enterprise,Cloud Storage,Southeast Asia,6865.25,3640.43
+2025-11-16,CUST-0120,Thailand,SMB,Cloud Compute,Southeast Asia,4112.07,2077.33
+2025-04-02,CUST-0274,UAE,Mid-Market,Cloud Compute,Middle East,8686.57,3114.79
+2025-06-05,CUST-0173,New Zealand,Enterprise,Data Analytics,ANZ,18216.06,9428.72
+2025-08-30,CUST-0136,Singapore,SMB,Data Analytics,Southeast Asia,8299.15,3415.59
+2025-11-09,CUST-0320,New Zealand,SMB,Cloud Compute,ANZ,4656.36,1790.24
+2025-06-30,CUST-0309,New Zealand,Enterprise,SaaS Platform,ANZ,9873.59,3726.56
+2025-07-28,CUST-0183,Australia,Enterprise,Cloud Compute,ANZ,14009.02,6559.3
+2025-11-22,CUST-0010,UAE,SMB,Data Analytics,Middle East,10787.98,4759.66
+2025-12-23,CUST-0052,Thailand,Mid-Market,Cloud Compute,Southeast Asia,6718.6,2490.07
+2025-05-29,CUST-0256,New Zealand,SMB,Data Analytics,ANZ,5386.28,2866.36
+2025-01-15,CUST-0271,Thailand,Mid-Market,SaaS Platform,Southeast Asia,3918.8,1107.59
+2025-04-17,CUST-0285,Australia,SMB,Cloud Compute,ANZ,5544.26,1700.85
+2025-03-28,CUST-0008,malaysia,SMB,SaaS Platform,Southeast Asia,4310.02,1458.61
+2025-11-27,CUST-0116,Australia,SMB,Cybersecurity,ANZ,4620.18,1889.8
+2025-05-06,CUST-0052,Australia,Enterprise,SaaS Platform,ANZ,13820.69,8010.91
+2025-06-15,CUST-0185,Australia,SMB,Cybersecurity,ANZ,5594.78,3044.23
+2025-09-07,CUST-0312,Australia,Mid-Market,Data Analytics,ANZ,11879.84,4360.44
+2025-01-17,CUST-0109,New Zealand,Enterprise,SaaS Platform,ANZ,9237.5,2951.57
+2025-02-12,CUST-0020,Australia,SMB,Cloud Storage,ANZ,,1842.59
+2025-09-30,CUST-0295,Australia,Mid-Market,Data Analytics,ANZ,9714.91,4013.54
+2025-03-21,CUST-0091,New Zealand,SMB,Data Analytics,ANZ,5101.13,1435.99
+2025-01-24,CUST-0186,Singapore,Mid-Market,Cloud Storage,Southeast Asia,5300.91,2765.42
+2025-03-21,CUST-0209,Australia,Enterprise,Cloud Storage,ANZ,10155.01,4663.09
+2025-03-31,CUST-0315,UAE,Mid-Market,Cloud Compute,Middle East,9359.56,4633.16
+2025-11-23,CUST-0122,Malaysia,SMB,Cybersecurity,Southeast Asia,4492.49,1722.05
+2025-06-07,CUST-0345,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,6979.0,3497.06
+2025-04-22,CUST-0349,Malaysia,SMB,Cloud Storage,Southeast Asia,2016.18,721.41
+2025-12-21,CUST-0306,Singapore,SMB,Data Analytics,Southeast Asia,9056.48,4259.44
+2025-06-15,CUST-0129,Thailand,Enterprise,Data Analytics,Southeast Asia,8990.84,3906.41
+2025-03-23,CUST-0281,New Zealand,SMB,Cybersecurity,ANZ,6286.22,2875.95
+2025-01-07,CUST-0048,Australia,SMB,Cybersecurity,ANZ,3820.51,2188.84
+2025-09-15,CUST-0042,UAE,SMB,Cloud Storage,Middle East,3521.62,1770.87
+2025-02-17,CUST-0106,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,2924.45,1483.95
+2025-11-29,CUST-0023,Singapore,Enterprise,SaaS Platform,Southeast Asia,17582.6,7647.11
+2025-10-14,CUST-0274,New Zealand,Mid-Market,Data Analytics,ANZ,9780.85,3518.0
+2025-11-08,CUST-0127,UAE,Enterprise,Cybersecurity,Middle East,19807.9,5665.78
+2025-08-27,CUST-0165,Singapore,SMB,Cybersecurity,Southeast Asia,6569.51,3156.58
+2025-07-01,CUST-0223,Thailand,Enterprise,Cybersecurity,Southeast Asia,11706.11,4370.93
+2025-05-29,CUST-0101,Singapore,Mid-Market,Cybersecurity,Southeast Asia,11229.03,6183.56
+2025-06-30,CUST-0142,Australia,SMB,Cloud Compute,ANZ,6741.92,2830.26
+2025-06-30,CUST-0018,UAE,Mid-Market,Cybersecurity,Middle East,9099.48,
+2025-07-05,CUST-0013,UAE,Enterprise,Data Analytics,Middle East,19765.22,9456.69
+2025-04-04,CUST-0294,UAE,SMB,Data Analytics,Middle East,8835.87,4155.41
+2025-08-29,CUST-0274,Singapore,Enterprise,Cloud Storage,Southeast Asia,12310.05,3981.08
+2025-11-12,CUST-0028,UAE,Mid-Market,Data Analytics,Middle East,13315.36,3978.8
+2025-07-05,CUST-0195,UAE,Mid-Market,Cloud Storage,Middle East,2839.2,1168.12
+2025-06-14,CUST-0126,UAE,Mid-Market,Data Analytics,Middle East,13351.77,6723.61
+2025-11-21,CUST-0057,Australia,Enterprise,SaaS Platform,ANZ,15048.62,6461.5
+2025-03-01,CUST-0197,Thailand,Enterprise,Cybersecurity,Southeast Asia,6687.74,3209.85
+2025-05-04,CUST-0014,Thailand,Mid-Market,Cloud Storage,Southeast Asia,3889.56,1246.8
+2025-05-16,CUST-0009,Singapore,Enterprise,Data Analytics,Southeast Asia,15826.13,5150.63
+2025-11-06,CUST-0316,New Zealand,SMB,SaaS Platform,ANZ,4431.86,2314.71
+2025-07-14,CUST-0203,UAE,Enterprise,Cloud Compute,Middle East,17427.41,8443.26
+2025-09-23,CUST-0214,Singapore,SMB,Data Analytics,Southeast Asia,7073.94,3144.91
+2025-07-15,CUST-0242,Australia,Mid-Market,Cloud Compute,ANZ,8619.82,3034.09
+2025-07-12,CUST-0051,Australia,Mid-Market,Cloud Compute,ANZ,8105.53,3691.57
+2025-10-30,CUST-0278,New Zealand,Mid-Market,Data Analytics,ANZ,7280.21,3745.1
+2025-10-15,CUST-0285,Malaysia,SMB,Cloud Compute,Southeast Asia,3913.21,1520.4
+2025-03-17,CUST-0182,UAE,SMB,Cybersecurity,Middle East,6029.05,2239.15
+2025-12-27,CUST-0219,Australia,SMB,Data Analytics,ANZ,7946.33,3938.17
+2025-08-11,CUST-0130,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,9145.9,2880.59
+2025-10-02,CUST-0262,Malaysia,SMB,Cloud Compute,Southeast Asia,4659.45,2464.49
+2025-08-24,CUST-0152,UAE,SMB,Cloud Compute,Middle East,8174.1,2875.7
+2025-03-05,CUST-0318,Singapore,SMB,Cloud Storage,Southeast Asia,4230.54,1291.07
+2025-07-02,CUST-0069,Australia,Mid-Market,Data Analytics,ANZ,10219.4,3223.64
+2025-04-02,CUST-0103,Singapore,SMB,Cloud Storage,Southeast Asia,2283.3,898.19
+2025-12-16,CUST-0251,Australia,SMB,Cloud Storage,ANZ,2656.44,1449.1
+2025-11-11,CUST-0114,Singapore,Enterprise,Cybersecurity,Southeast Asia,19560.83,7892.26
+2025-04-12,CUST-0311,Australia,SMB,SaaS Platform,ANZ,4368.93,1277.67
+2025-05-16,CUST-0189,New Zealand,Enterprise,Cloud Storage,ANZ,6137.76,2399.94
+2025-09-12,CUST-0296,Thailand,SMB,SaaS Platform,Southeast Asia,3296.0,1031.46
+2025-09-27,CUST-0075,Malaysia,SMB,SaaS Platform,Southeast Asia,3337.75,1291.36
+2025-11-13,CUST-0235,Thailand,Mid-Market,Cloud Compute,Southeast Asia,6773.07,3197.3
+2025-03-28,CUST-0292,Singapore,Mid-Market,SaaS Platform,Southeast Asia,7801.62,2557.79
+2025-11-16,CUST-0319,New Zealand,SMB,Cloud Compute,ANZ,4593.71,2102.16
+2025-01-31,CUST-0255,Malaysia,SMB,SaaS Platform,Southeast Asia,3387.76,1506.88
+2025-08-19,CUST-0132,Thailand,Mid-Market,Cloud Storage,Southeast Asia,3022.75,982.2
+2025-09-02,CUST-0117,Singapore,Mid-Market,Cloud Storage,Southeast Asia,3371.36,1698.43
+2025-02-27,CUST-0113,Thailand,Mid-Market,Cybersecurity,Southeast Asia,5587.71,2343.91
+2025-09-29,CUST-0002,UAE,Enterprise,Data Analytics,Middle East,16110.39,9171.23
+2025-06-22,CUST-0067,Singapore,Enterprise,SaaS Platform,Southeast Asia,12083.47,5151.97
+2025-09-02,CUST-0033,Thailand,SMB,Cybersecurity,Southeast Asia,4821.66,2169.53
+2025-09-25,CUST-0218,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,4988.08,
+2025-07-24,CUST-0021,Singapore,Mid-Market,Cloud Compute,Southeast Asia,8768.9,3609.54
+2025-01-08,CUST-0111,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,5963.73,1885.9
+2025-03-15,CUST-0051,Australia,SMB,SaaS Platform,ANZ,4681.89,1381.1
+2025-02-21,CUST-0156,Australia,Mid-Market,Cloud Compute,ANZ,9034.98,2729.92
+2025-06-18,CUST-0173,Thailand,SMB,Cloud Compute,Southeast Asia,3000.79,1145.61
+2025-09-19,CUST-0067,Malaysia,SMB,SaaS Platform,Southeast Asia,3075.95,1370.1
+2025-08-27,CUST-0207,Australia,SMB,Cloud Compute,ANZ,5580.22,1929.41
+2025-02-02,CUST-0008,Australia,Mid-Market,SaaS Platform,ANZ,5924.89,2461.3
+2025-05-15,CUST-0178,Thailand,Mid-Market,Cybersecurity,Southeast Asia,5851.76,2979.22
+2025-04-10,CUST-0339,New Zealand,SMB,Cybersecurity,ANZ,6288.77,3066.72
+2025-12-07,CUST-0086,Singapore,Enterprise,SaaS Platform,Southeast Asia,18318.68,5782.21
+2025-12-10,CUST-0015,Malaysia,SMB,Cloud Compute,Southeast Asia,5099.72,2377.05
+2025-11-06,CUST-0241,UAE,SMB,Cloud Compute,Middle East,10194.08,5147.19
+2025-01-07,CUST-0177,Singapore,SMB,Cloud Compute,Southeast Asia,4711.08,1561.25
+2025-01-06,CUST-0028,Australia,Mid-Market,Cloud Storage,ANZ,3553.75,1165.01
+2025-08-23,CUST-0181,Malaysia,SMB,Cloud Compute,Southeast Asia,2809.52,1152.22
+2025-01-07,CUST-0032,UAE,SMB,SaaS Platform,Middle East,4936.55,1539.52
+2025-08-10,CUST-0271,Thailand,Mid-Market,SaaS Platform,Southeast Asia,6328.28,3147.81
+2025-11-24,CUST-0295,Malaysia,Mid-Market,Cybersecurity,Southeast Asia,7097.17,2764.11
+2025-03-25,CUST-0216,New Zealand,Enterprise,Cloud Compute,ANZ,9285.5,5105.35
+2025-03-09,CUST-0103,Malaysia,SMB,SaaS Platform,Southeast Asia,2580.33,1021.95
+2025-10-02,CUST-0308,Singapore,Enterprise,Cybersecurity,Southeast Asia,21299.67,7688.22
+2025-06-14,CUST-0301,UAE,SMB,Cybersecurity,Middle East,4655.62,2574.95
+2025-05-22,CUST-0345,Thailand,Mid-Market,SaaS Platform,Southeast Asia,3441.02,1092.32
+2025-03-21,CUST-0024,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,4534.7,1276.22
+2025-09-12,CUST-0349,Malaysia,SMB,SaaS Platform,Southeast Asia,3610.98,1290.22
+2025-11-18,CUST-0023,Thailand,Mid-Market,SaaS Platform,Southeast Asia,5666.82,2954.62
+2025-10-29,CUST-0277,UAE,Enterprise,Cybersecurity,Middle East,18926.83,9444.84
+2025-08-12,CUST-0198,Malaysia,SMB,Cloud Storage,Southeast Asia,,1095.35
+2025-12-05,CUST-0297,Singapore,Mid-Market,SaaS Platform,Southeast Asia,8470.89,3545.76
+2025-01-18,CUST-0002,New Zealand,SMB,Cloud Storage,ANZ,2619.57,1285.12
+2025-07-22,CUST-0157,Thailand,Mid-Market,Cloud Compute,Southeast Asia,5066.87,1670.27
+2025-12-26,CUST-0048,Singapore,Enterprise,Cybersecurity,Southeast Asia,21689.68,8800.0
+2025-03-06,CUST-0284,Singapore,Mid-Market,Cloud Compute,Southeast Asia,5871.17,2834.25
+2025-05-05,CUST-0018,Thailand,SMB,Cloud Compute,Southeast Asia,3294.79,1831.97
+2025-10-27,CUST-0020,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,6746.64,3855.86
+2025-07-13,CUST-0019,Australia,Enterprise,Data Analytics,ANZ,16743.5,6368.44
+2025-05-27,CUST-0299,Thailand,Mid-Market,Data Analytics,Southeast Asia,4818.54,2627.38
+2025-01-25,CUST-0292,Singapore,Mid-Market,SaaS Platform,Southeast Asia,5486.27,2615.49
+2025-01-07,CUST-0240,New Zealand,Enterprise,Cloud Compute,ANZ,13006.12,4256.51
+2025-03-04,CUST-0230,Singapore,Mid-Market,Data Analytics,Southeast Asia,10786.6,5697.83
+2025-12-11,CUST-0087,Thailand,Mid-Market,Cybersecurity,Southeast Asia,7398.02,2907.44
+2025-01-23,CUST-0087,UAE,Mid-Market,Cloud Compute,Middle East,7578.82,2695.81
+2025-03-14,CUST-0065,Singapore,SMB,Cloud Compute,Southeast Asia,5484.02,2144.43
+2025-10-18,CUST-0110,UAE,Mid-Market,Data Analytics,Middle East,14601.69,7065.84
+2025-03-13,CUST-0006,Thailand,SMB,Data Analytics,Southeast Asia,3943.15,1296.76
+2025-11-04,CUST-0217,Singapore,Enterprise,SaaS Platform,Southeast Asia,10473.99,4925.19
+2025-12-20,CUST-0322,UAE,Mid-Market,Cloud Compute,Middle East,8170.5,2648.9
+2025-08-14,CUST-0079,UAE,Enterprise,Cloud Storage,Middle East,9875.34,4175.96
+2025-09-30,CUST-0163,Thailand,Mid-Market,Cloud Compute,Southeast Asia,6101.66,3424.17
+2025-12-24,CUST-0226,Thailand,Enterprise,Cloud Storage,Southeast Asia,9215.43,3945.92
+2025-08-03,CUST-0001,New Zealand,Mid-Market,Data Analytics,ANZ,8178.57,3106.16
+2025-09-04,CUST-0138,Thailand,SMB,Data Analytics,Southeast Asia,4738.7,2513.32
+2025-07-23,CUST-0278,Thailand,Mid-Market,Data Analytics,Southeast Asia,5908.32,1670.08
+2025-03-08,CUST-0013,Singapore,Enterprise,SaaS Platform,Southeast Asia,12613.81,5459.59
+2025-08-20,CUST-0126,Thailand,SMB,Cybersecurity,Southeast Asia,4268.72,2200.15
+2025-08-17,CUST-0047,Singapore,Enterprise,Data Analytics,Southeast Asia,19782.68,6165.69
+2025-03-23,CUST-0106,UAE,Mid-Market,Cybersecurity,Middle East,9847.23,3423.39
+2025-05-11,CUST-0101,Malaysia,Mid-Market,Data Analytics,Southeast Asia,5675.99,1657.95
+2025-05-07,CUST-0278,Australia,Mid-Market,Cybersecurity,ANZ,10795.61,3153.9
+2025-02-08,CUST-0315,Australia,SMB,Cybersecurity,ANZ,4981.35,1398.07
+2025-11-07,CUST-0311,Australia,Mid-Market,Cybersecurity,ANZ,8490.58,2399.94
+2025-01-31,CUST-0286,Singapore,SMB,SaaS Platform,Southeast Asia,4010.0,1451.72
+2025-04-15,CUST-0016,Australia,SMB,Cloud Storage,ANZ,2789.3,1520.48
+2025-06-14,CUST-0209,New Zealand,Enterprise,Data Analytics,ANZ,10237.48,3979.95
+2025-09-14,CUST-0218,Thailand,SMB,Data Analytics,Southeast Asia,5015.99,2796.8
+2025-01-13,CUST-0230,UAE,Mid-Market,SaaS Platform,Middle East,5988.91,3101.22
+2025-08-22,CUST-0208,UAE,Mid-Market,Cybersecurity,Middle East,8281.66,2391.28
+2025-01-21,CUST-0041,UAE,SMB,Cloud Compute,Middle East,4915.93,2656.59
+2025-12-08,CUST-0342,Singapore,Mid-Market,Cloud Storage,Southeast Asia,5992.14,1885.47
+2025-07-16,CUST-0250,Thailand,Mid-Market,Cloud Compute,Southeast Asia,4965.88,1686.86
+2025-08-05,CUST-0270,Australia,SMB,Cloud Compute,ANZ,4516.83,2214.19
+2025-11-22,CUST-0045,Thailand,Mid-Market,Cloud Compute,Southeast Asia,5714.04,3262.83
+2025-06-24,CUST-0171,Singapore,SMB,SaaS Platform,Southeast Asia,4015.38,2186.24
+2025-10-20,CUST-0006,UAE,Enterprise,Cloud Compute,Middle East,16177.36,6237.52
+2025-01-28,CUST-0049,Malaysia,SMB,Cloud Storage,Southeast Asia,1829.03,832.21
+2025-02-19,CUST-0318,Thailand,Mid-Market,Data Analytics,Southeast Asia,6448.15,2675.16
+2025-02-14,CUST-0019,Thailand,Mid-Market,Data Analytics,Southeast Asia,3920.47,1138.7
+2025-01-04,CUST-0044,Singapore,SMB,Cloud Compute,Southeast Asia,6201.78,1936.94
+2025-03-01,CUST-0119,Thailand,Enterprise,SaaS Platform,Southeast Asia,8012.87,2760.59
+2025-03-27,CUST-0117,Thailand,Mid-Market,Cloud Storage,Southeast Asia,2882.08,1395.34
+2025-09-21,CUST-0090,Australia,SMB,Cloud Compute,ANZ,4942.8,1697.21
+2025-12-24,CUST-0058,UAE,Mid-Market,SaaS Platform,Middle East,9709.54,2757.8
+2025-08-26,CUST-0220,Malaysia,SMB,Data Analytics,Southeast Asia,6816.29,3499.38
+2025-10-25,CUST-0251,Thailand,SMB,Cloud Storage,Southeast Asia,2609.27,1366.71
+2025-09-03,CUST-0197,Singapore,SMB,Cloud Storage,Southeast Asia,3100.35,1696.74
+2025-05-07,CUST-0297,Thailand,SMB,Cloud Compute,Southeast Asia,3315.3,1179.89
+2025-12-19,CUST-0087,New Zealand,Mid-Market,Cybersecurity,ANZ,7757.76,2468.55
+2025-10-19,CUST-0023,Malaysia,Enterprise,SaaS Platform,Southeast Asia,7827.4,3002.0
+2025-03-09,CUST-0169,Australia,Enterprise,Cloud Compute,ANZ,16260.85,5397.51
+2025-09-01,CUST-0058,Thailand,Enterprise,SaaS Platform,Southeast Asia,7858.01,3197.55
+2025-05-20,CUST-0075,Malaysia,Enterprise,Cybersecurity,Southeast Asia,12186.23,5566.1
+2025-02-24,CUST-0048,Singapore,Enterprise,Cloud Compute,Southeast Asia,12922.87,5129.17
+2025-08-11,CUST-0183,Singapore,Mid-Market,Cloud Compute,Southeast Asia,6688.33,3051.27
+2025-07-31,CUST-0303,New Zealand,SMB,Data Analytics,ANZ,4551.76,1415.25
+2025-05-05,CUST-0067,Malaysia,SMB,Cloud Storage,Southeast Asia,2361.45,689.53
+2025-08-31,CUST-0277,singapore,SMB,Cloud Storage,Southeast Asia,2846.65,811.03
+2025-07-14,CUST-0309,Singapore,Enterprise,Cloud Storage,Southeast Asia,11306.92,5623.37
+2025-02-14,CUST-0191,Malaysia,SMB,Cloud Compute,Southeast Asia,2957.81,1068.32
+2025-05-31,CUST-0022,Malaysia,SMB,Data Analytics,Southeast Asia,5146.14,1481.93
+2025-01-01,CUST-0204,Singapore,Enterprise,Data Analytics,Southeast Asia,15519.59,6207.69
+2025-03-26,CUST-0032,New Zealand,Enterprise,Cloud Compute,ANZ,7873.9,3480.08
+2025-04-21,CUST-0096,Australia,Enterprise,Data Analytics,ANZ,16350.11,9332.26
+2025-07-03,CUST-0107,Australia,SMB,Cloud Storage,ANZ,3602.95,1180.91
+2025-11-28,CUST-0167,Australia,Enterprise,Cloud Compute,ANZ,13913.83,5979.31
+2025-04-12,CUST-0207,Malaysia,SMB,Cloud Compute,Southeast Asia,5404.87,2637.07
+2025-05-26,CUST-0203,UAE,Mid-Market,Cloud Storage,Middle East,6331.64,1942.62
+2025-10-31,CUST-0273,New Zealand,SMB,Data Analytics,ANZ,5047.52,1758.14
+2025-06-10,CUST-0155,UAE,Mid-Market,Cybersecurity,Middle East,11045.55,3900.47
+2025-12-07,CUST-0212,Australia,Enterprise,SaaS Platform,ANZ,12186.02,5089.65
+2025-07-27,CUST-0197,Malaysia,SMB,Data Analytics,Southeast Asia,4248.32,1654.31
+2025-09-03,CUST-0053,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,5616.95,2059.17
+2025-08-07,CUST-0007,Thailand,Mid-Market,Cloud Compute,Southeast Asia,6289.42,2362.68
+2025-12-16,CUST-0152,Australia,SMB,Cybersecurity,ANZ,8295.52,2902.71
+2025-01-08,CUST-0230,Thailand,SMB,Cloud Storage,Southeast Asia,1162.19,377.38
+2025-03-13,CUST-0332,New Zealand,SMB,Cloud Compute,ANZ,2730.85,1346.2
+2025-07-10,CUST-0090,UAE,Mid-Market,Cybersecurity,Middle East,9727.76,5011.5
+2025-03-21,CUST-0230,Thailand,Mid-Market,Data Analytics,Southeast Asia,5103.62,1763.67
+2025-08-22,CUST-0340,Australia,SMB,Cloud Compute,ANZ,4738.3,2429.68
+2025-03-08,CUST-0055,UAE,SMB,Data Analytics,Middle East,6894.05,3323.55
+2025-02-10,CUST-0286,Malaysia,Enterprise,Cloud Compute,Southeast Asia,8181.86,3950.07
+2025-07-10,CUST-0194,Australia,Mid-Market,SaaS Platform,ANZ,6751.42,3243.81
+2025-10-18,CUST-0137,Australia,Mid-Market,Cloud Storage,ANZ,5623.11,2820.95
+2025-04-26,CUST-0168,UAE,Enterprise,Data Analytics,Middle East,16620.08,5498.22
+2025-10-23,CUST-0335,Thailand,SMB,Cloud Compute,Southeast Asia,3524.84,1870.38
+2025-02-02,CUST-0287,Thailand,SMB,SaaS Platform,Southeast Asia,3188.01,1355.37
+2025-08-22,CUST-0028,Thailand,Mid-Market,Data Analytics,Southeast Asia,5239.5,2236.13
+2025-03-25,CUST-0109,New Zealand,SMB,SaaS Platform,ANZ,2641.59,1230.02
+2025-07-03,CUST-0312, Singapore ,SMB,SaaS Platform,Southeast Asia,3503.5,1903.35
+2025-08-23,CUST-0155,Australia,Mid-Market,Cloud Storage,ANZ,5686.82,3096.67
+2025-10-05,CUST-0151,Australia,Mid-Market,Cloud Compute,ANZ,5899.81,2398.73
+2025-01-15,CUST-0221,New Zealand,Mid-Market,Cybersecurity,ANZ,4639.1,1700.41
+2025-06-11,CUST-0271,Australia,Mid-Market,Cloud Compute,ANZ,6328.16,3047.17
+2025-08-27,CUST-0289,UAE,Enterprise,Data Analytics,Middle East,20037.25,6284.19
+2025-11-03,CUST-0341,Thailand,Enterprise,Cloud Compute,Southeast Asia,9423.39,2905.88
+2025-01-17,CUST-0252,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,3211.77,1021.72
+2025-03-23,CUST-0123,New Zealand,SMB,Data Analytics,ANZ,4525.24,1724.09
+2025-03-02,CUST-0300,New Zealand,Enterprise,Data Analytics,ANZ,15372.92,7057.82
+2025-06-12,CUST-0276,Singapore,Enterprise,Cloud Storage,Southeast Asia,11095.45,5851.47
+2025-03-09,CUST-0105,UAE,Mid-Market,SaaS Platform,Middle East,5431.94,1865.04
+2025-05-14,CUST-0152,Thailand,SMB,Cloud Storage,Southeast Asia,1680.01,659.87
+2025-04-19,CUST-0179,Thailand,Mid-Market,Cloud Storage,Southeast Asia,2881.48,1229.04
+2025-03-13,CUST-0169,New Zealand,Enterprise,SaaS Platform,ANZ,8471.47,3658.29
+2025-12-07,CUST-0265,Malaysia,SMB,Cybersecurity,Southeast Asia,4738.95,1588.77
+2025-11-30,CUST-0068,Singapore,Mid-Market,SaaS Platform,Southeast Asia,8867.42,3879.02
+2025-02-24,CUST-0110,Australia,SMB,Cybersecurity,ANZ,5149.96,1951.68
+2025-03-28,CUST-0319,Malaysia,Enterprise,SaaS Platform,Southeast Asia,8652.18,2649.09
+2025-05-08,CUST-0337,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,5626.35,3180.02
+2025-04-26,CUST-0003,Singapore,Enterprise,SaaS Platform,Southeast Asia,14221.78,7485.26
+2025-10-29,CUST-0032,Australia,SMB,SaaS Platform,ANZ,3711.21,1833.45
+2025-06-14,CUST-0085,Singapore,SMB,Cloud Compute,Southeast Asia,5204.08,1621.82
+2025-10-07,CUST-0290,Thailand,Mid-Market,SaaS Platform,Southeast Asia,5449.83,2493.84
+2025-07-18,CUST-0057,New Zealand,Mid-Market,Cloud Storage,ANZ,5474.5,2171.56
+2025-08-24,CUST-0132,Australia,Enterprise,Cloud Compute,ANZ,14420.56,4104.49
+2025-08-09,CUST-0290,Singapore,SMB,Cybersecurity,Southeast Asia,6748.49,2668.38
+2025-01-04,CUST-0263,Singapore,Mid-Market,SaaS Platform,Southeast Asia,6750.28,2235.18
+2025-06-02,CUST-0275,Malaysia,SMB,Cloud Compute,Southeast Asia,4021.63,2074.88
+2025-11-03,CUST-0168,Australia,Mid-Market,Data Analytics,ANZ,14260.26,4159.37
+2025-12-19,CUST-0189,UAE,SMB,SaaS Platform,Middle East,6853.41,3059.09
+2025-11-22,CUST-0026,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,5694.2,2021.65
+2025-07-04,CUST-0045,New Zealand,Enterprise,Cloud Storage,ANZ,5041.69,2260.69
+2025-11-27,CUST-0293,Thailand,SMB,SaaS Platform,Southeast Asia,4300.8,2106.97
+2025-12-31,CUST-0057,Australia,Enterprise,Data Analytics,ANZ,22007.7,6718.1
+2025-10-06,CUST-0217,UAE,SMB,Cloud Storage,Middle East,5169.98,2209.27
+2025-09-07,CUST-0195,Australia ,Mid-Market,Cybersecurity,ANZ,6262.77,2779.05
+2025-06-15,CUST-0341,UAE,Enterprise,Cybersecurity,Middle East,15118.68,5881.36
+2025-08-11,CUST-0045,Malaysia,Mid-Market,Cybersecurity,Southeast Asia,6545.44,2318.35
+2025-08-06,CUST-0077,Malaysia,SMB,SaaS Platform,Southeast Asia,3467.7,1606.48
+2025-06-12,CUST-0078,UAE,Mid-Market,Cloud Storage,Middle East,6190.43,1831.33
+2025-02-09,CUST-0174,Thailand,SMB,Cloud Compute,Southeast Asia,3290.82,1403.52
+2025-10-07,CUST-0122,Thailand,SMB,SaaS Platform,Southeast Asia,2772.68,1268.18
+2025-09-21,CUST-0009,Singapore,Enterprise,Data Analytics,Southeast Asia,18413.46,9717.12
+2025-09-12,CUST-0260,Australia,SMB,Cybersecurity,ANZ,7297.23,3743.61
+2025-11-29,CUST-0347,Thailand,Enterprise,Cloud Storage,Southeast Asia,7651.0,2930.29
+2025-09-26,CUST-0279,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,5579.48,2200.19
+2025-10-26,CUST-0005,Australia,SMB,Cloud Storage,ANZ,3346.2,1492.07
+2025-10-06,CUST-0042,Australia,SMB,Cloud Compute,ANZ,4056.26,2097.67
+2025-05-13,CUST-0217,Thailand,Mid-Market,Cloud Compute,Southeast Asia,5167.1,1969.23
+2025-03-05,CUST-0214,Thailand,Enterprise,Cybersecurity,Southeast Asia,9029.08,3313.46
+2025-03-04,CUST-0022,Thailand,Enterprise,Cloud Compute,Southeast Asia,7554.12,3812.85
+2025-02-22,CUST-0204,Australia,SMB,SaaS Platform,ANZ,3051.5,1713.97
+2025-12-11,CUST-0036,Australia,SMB,Cloud Storage,ANZ,3900.79,1593.91
+2025-10-10,CUST-0281,UAE,Mid-Market,Cybersecurity,Middle East,10531.93,3438.77
+2025-05-19,CUST-0220,Australia,Enterprise,Cloud Storage,ANZ,8551.65,3079.61
+2025-01-13,CUST-0149,Singapore,SMB,Cloud Compute,Southeast Asia,5153.78,2374.78
+2025-10-25,CUST-0163,New Zealand,Enterprise,SaaS Platform,ANZ,14650.14,8257.15
+2025-06-11,CUST-0206,Singapore,Mid-Market,Cloud Storage,Southeast Asia,5426.41,2121.81
+2025-08-26,CUST-0224,Australia,SMB,Cloud Storage,ANZ,3824.67,1433.08
+2025-07-18,CUST-0254,Australia,Enterprise,Cloud Compute,ANZ,14966.12,8012.54
+2025-09-22,CUST-0329,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,7221.15,3574.13
+2025-07-20,CUST-0018,Thailand,SMB,Cybersecurity,Southeast Asia,4132.06,2172.39
+2025-06-23,CUST-0221,Thailand,Mid-Market,Cloud Compute,Southeast Asia,5624.45,2606.98
+2025-08-13,CUST-0153,New Zealand,Enterprise,Cloud Storage,ANZ,5363.9,
+2025-07-15,CUST-0120,UAE,Enterprise,Cloud Compute,Middle East,17460.8,5046.47
+2025-03-29,CUST-0098,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,4048.83,1249.63
+2025-09-01,CUST-0056,Malaysia,Enterprise,SaaS Platform,Southeast Asia,10013.33,4763.91
+2025-06-04,CUST-0327,Singapore,Mid-Market,SaaS Platform,Southeast Asia,7071.66,2724.14
+2025-03-30,CUST-0025,New Zealand,Mid-Market,Cloud Storage,ANZ,4327.07,2096.45
+2025-07-05,CUST-0306,Australia,Mid-Market,Data Analytics,ANZ,9279.73,4639.73
+2025-05-27,CUST-0176,Thailand,SMB,Cybersecurity,Southeast Asia,3651.38,1611.36
+2025-03-28,CUST-0191,Singapore,Mid-Market,SaaS Platform,Southeast Asia,8126.3,2638.06
+2025-10-09,CUST-0265,Thailand,Enterprise,Data Analytics,Southeast Asia,12549.64,5326.51
+2025-10-21,CUST-0336,UAE,Mid-Market,SaaS Platform,Middle East,9003.85,4898.48
+2025-04-16,CUST-0007,UAE,Mid-Market,Cloud Storage,Middle East,4574.66,1330.29
+2025-04-01,CUST-0200,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,4540.38,1309.3
+2025-01-03,CUST-0038,Thailand,Mid-Market,SaaS Platform,Southeast Asia,5547.17,1870.51
+2025-12-17,CUST-0163,Thailand,SMB,Cloud Storage,Southeast Asia,2338.39,1199.05
+2025-03-27,CUST-0278,Singapore,SMB,Data Analytics,Southeast Asia,6616.85,1934.15
+2025-10-31,CUST-0231,Thailand,Enterprise,Cloud Compute,Southeast Asia,9236.38,5234.87
+2025-09-27,CUST-0284,New Zealand,SMB,Data Analytics,ANZ,6586.83,2386.56
+2025-12-22,CUST-0306,New Zealand,Mid-Market,Cybersecurity,ANZ,10065.8,4584.4
+2025-09-30,CUST-0282,UAE,Enterprise,Data Analytics,Middle East,21842.59,9862.71
+2025-07-18,CUST-0029,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,2835.64,803.22
+2025-08-29,CUST-0341,Thailand,Mid-Market,Data Analytics,Southeast Asia,6106.17,1928.74
+2025-10-10,CUST-0241,Malaysia,SMB,Cloud Storage,Southeast Asia,2204.78,854.02
+2025-12-14,CUST-0010,UAE,Enterprise,Cloud Storage,Middle East,11734.19,5677.34
+2025-08-09,CUST-0027,Australia,Mid-Market,Cloud Compute,ANZ,12731.75,4710.69
+2025-08-11,CUST-0058,Thailand,SMB,Cybersecurity,Southeast Asia,4241.87,1327.78
+2025-04-20,CUST-0114,Malaysia,Mid-Market,Cybersecurity,Southeast Asia,5027.45,2628.64
+2025-05-28,CUST-0057,Singapore,Enterprise,SaaS Platform,Southeast Asia,9433.44,3744.83
+2025-02-07,CUST-0305,New Zealand,Enterprise,Cloud Compute,ANZ,13751.55,4536.29
+2025-05-18,CUST-0250,Singapore,Enterprise,Data Analytics,Southeast Asia,12340.93,6713.35
+2025-07-04,CUST-0109,Thailand,SMB,SaaS Platform,Southeast Asia,3044.65,1363.27
+2025-06-27,CUST-0180,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,4146.44,1891.38
+2025-11-09,CUST-0022,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,5351.26,1584.13
+2025-01-07,CUST-0240,New Zealand,Enterprise,Cloud Compute,ANZ,13006.12,4256.51
+2025-03-21,CUST-0049,Thailand,Mid-Market,Cloud Compute,Southeast Asia,5645.8,2034.43
+2025-02-03,CUST-0244,Australia,Enterprise,SaaS Platform,ANZ,7967.28,3765.33
+2025-01-14,CUST-0264,Australia,SMB,Cloud Storage,ANZ,2308.05,736.08
+2025-04-18,CUST-0085,UAE,SMB,SaaS Platform,Middle East,6363.73,1903.96
+2025-02-13,CUST-0255,Singapore,SMB,Cloud Compute,Southeast Asia,5663.23,2117.99
+2025-07-29,CUST-0258,Malaysia,Enterprise,Cloud Storage,Southeast Asia,7342.71,4203.95
+2025-07-31,CUST-0182,UAE,SMB,Cloud Compute,Middle East,4770.19,1449.3
+2025-09-02,CUST-0027,Thailand,Enterprise ,Cloud Compute,Southeast Asia,11517.18,4643.4
+2025-09-09,CUST-0119,New Zealand,Enterprise,SaaS Platform,ANZ,10983.43,6088.02
+2025-04-01,CUST-0129,New Zealand,SMB,Data Analytics,ANZ,4495.45,2085.73
+2025-05-13,CUST-0203,Malaysia,SMB,SaaS Platform,Southeast Asia,2489.74,1154.26
+2025-08-22,CUST-0043,UAE,Enterprise,Data Analytics,Middle East,16456.55,9049.38
+2025-09-18,CUST-0275,Thailand,Enterprise,Cloud Storage,Southeast Asia,7313.0,2710.47
+2025-12-08,CUST-0025,Singapore,Mid-Market,Data Analytics,Southeast Asia,14457.53,6442.77
+2025-03-01,CUST-0041,New Zealand,SMB,Cybersecurity,ANZ,5911.48,2583.57
+2025-11-17,CUST-0335,UAE,Mid-Market,Cloud Compute,Middle East,11870.16,6758.91
+2025-05-28,CUST-0252,Thailand,Enterprise,Data Analytics,Southeast Asia,12997.58,5090.8
+2025-12-09,CUST-0159,Malaysia,Mid-Market,Cybersecurity,Southeast Asia,8943.13,4656.87
+2025-06-30,CUST-0066,Malaysia,Enterprise,Cloud Storage,Southeast Asia,8111.26,3353.21
+2025-04-27,CUST-0065,Malaysia,Enterprise,Data Analytics,Southeast Asia,12940.05,7302.98
+2025-05-18,CUST-0249,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,5935.4,2618.61
+2025-06-21,CUST-0215,UAE,Enterprise,SaaS Platform,Middle East,10616.23,3596.01
+2025-04-19,CUST-0092,Thailand,SMB,SaaS Platform,Southeast Asia,2199.74,1030.61
+2025-09-14,CUST-0271,Malaysia,Mid-Market,Data Analytics,Southeast Asia,6835.81,3372.37
+2025-11-25,CUST-0051,Singapore,SMB,Cloud Storage,Southeast Asia,4032.04,1232.0
+2025-06-29,CUST-0196,UAE,SMB,Cloud Storage,Middle East,2977.38,1437.87
+2025-11-25,CUST-0151,Thailand,SMB,SaaS Platform,Southeast Asia,3654.23,1178.6
+2025-12-30,CUST-0224,Australia,SMB,Cloud Storage,ANZ,4117.01,1950.48
+2025-05-03,CUST-0061,Thailand,Mid-Market,Cloud Compute,Southeast Asia,3422.21,1539.39
+2025-10-11,CUST-0258,Singapore,SMB,Cloud Storage,Southeast Asia,3826.51,2091.1
+2025-09-26,CUST-0009,Thailand,Mid-Market,Cloud Storage,Southeast Asia,2863.06,953.53
+2025-01-13,CUST-0331,Thailand,Enterprise ,Data Analytics,Southeast Asia,5659.09,1618.59
+2025-10-17,CUST-0334,Australia,Mid-Market,SaaS Platform,ANZ,8603.87,4359.45
+2025-07-15,CUST-0263,Australia,Mid-Market,Data Analytics,ANZ,7627.92,4128.77
+2025-02-22,CUST-0318,Malaysia,Enterprise,Cloud Storage,Southeast Asia,4608.55,1425.42
+2025-08-27,CUST-0139,Singapore,Mid-Market,Cybersecurity,Southeast Asia,9370.97,4395.86
+2025-05-15,CUST-0116,UAE,Mid-Market,Cloud Storage,Middle East,4620.4,1410.59
+2025-01-08,CUST-0193,Thailand,Mid-Market,Data Analytics,Southeast Asia,5793.4,2235.06
+2025-09-30,CUST-0002,UAE,Mid-Market,Data Analytics,Middle East,11561.12,4068.65
+2025-08-18,CUST-0038,New Zealand,Enterprise,Data Analytics,ANZ,8852.82,4042.24
+2025-07-09,CUST-0287,Thailand,Mid-Market,Cloud Compute,Southeast Asia,3598.89,1476.62
+2025-12-24,CUST-0089,New Zealand,Mid-Market,Cybersecurity,ANZ,10638.33,5175.01
+2025-05-06,CUST-0218,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,3752.14,1391.6
+2025-05-31,CUST-0321,Thailand,Mid-Market,Cloud Compute,Southeast Asia,4473.31,1653.02
+2025-10-06,CUST-0053,Thailand,Mid-Market,Cloud Storage,Southeast Asia,4219.89,1611.1
+2025-08-23,CUST-0229,Singapore,Enterprise,Data Analytics,Southeast Asia,23077.13,7996.88
+2025-01-30,CUST-0347,Australia,SMB,Cybersecurity,ANZ,6009.93,2500.03
+2025-01-01,CUST-0334,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,4433.76,1694.13
+2025-11-13,CUST-0275,Malaysia,SMB,Data Analytics,Southeast Asia,4618.76,2326.69
+2025-12-05,CUST-0254,Australia,SMB,Cloud Storage,ANZ,4691.87,1681.88
+2025-07-04,CUST-0348,Thailand,Mid-Market,Data Analytics,Southeast Asia,7817.35,2866.89
+2025-01-12,CUST-0192,New Zealand,Mid-Market,SaaS Platform,ANZ,5989.45,1695.81
+2025-04-05,CUST-0253,New Zealand,SMB,SaaS Platform,ANZ,2327.7,1242.23
+2025-05-02,CUST-0148,Singapore,Mid-Market,Cloud Storage,Southeast Asia,4645.45,2659.83
+2025-03-20,CUST-0197,Singapore,Enterprise,SaaS Platform,Southeast Asia,13306.72,7083.96
+2025-06-29,CUST-0042,New Zealand,SMB,Cybersecurity,ANZ,4427.11,2336.26
+2025-12-03,CUST-0033,New Zealand,Mid-Market,Cloud Compute,ANZ,8735.93,3667.38
+2025-03-11,CUST-0020,Thailand,Mid-Market,SaaS Platform,Southeast Asia,5449.8,2807.02
+2025-12-23,CUST-0165,Singapore,Mid-Market,SaaS Platform,Southeast Asia,9074.16,4973.2
+2025-02-27,CUST-0267,Australia,Enterprise,Cloud Compute,ANZ,13169.25,6550.16
+2025-03-02,CUST-0225,Australia,Enterprise,Cloud Compute,ANZ,15800.89,5198.59
+2025-07-31,CUST-0094,Singapore,Mid-Market,Cloud Storage,Southeast Asia,6475.24,3282.65
+2025-06-11,CUST-0282,Australia,Mid-Market,Cloud Storage,ANZ,4846.17,2531.64
+2025-12-04,CUST-0052,Thailand,Enterprise,SaaS Platform,Southeast Asia,10426.98,4424.62
+2025-08-05,CUST-0137,Malaysia,Mid-Market,Data Analytics,Southeast Asia,7862.5,3570.94
+2025-10-20,CUST-0004,Thailand,Enterprise,Cloud Storage,Southeast Asia,6801.78,2710.33
+2025-06-16,CUST-0085,Singapore,Mid-Market,SaaS Platform,Southeast Asia,7163.09,4123.78
+2025-03-13,CUST-0131,Malaysia,SMB,Cloud Storage,Southeast Asia,1584.06,605.33
+2025-02-14,CUST-0022,Thailand,Mid-Market,Cloud Storage,Southeast Asia,2993.93,1096.82
+2025-09-04,CUST-0108,UAE,Mid-Market,Cloud Compute,Middle East,8768.41,2733.29
+2025-02-17,CUST-0282,Malaysia,Mid-Market,Cybersecurity,Southeast Asia,6567.49,2251.72
+2025-12-17,CUST-0291,Australia,Mid-Market,Data Analytics,ANZ,10563.8,4249.22
+2025-12-24,CUST-0252,New Zealand,SMB,Cloud Storage,ANZ,3460.3,1684.02
+2025-04-20,CUST-0155,Thailand,Enterprise,Cloud Compute,Southeast Asia,8370.43,3144.66
+2025-07-11,CUST-0047,UAE,SMB,Cloud Storage,Middle East,3621.65,1656.99
+2025-08-22,CUST-0197,Singapore,SMB,Data Analytics,Southeast Asia,9107.47,5012.32
+2025-09-02,CUST-0007,Thailand,SMB,Cybersecurity,Southeast Asia,4438.22,1808.97
+2025-09-09,CUST-0023,UAE,Mid-Market,Data Analytics,Middle East,10884.15,3299.99
+2025-02-28,CUST-0253,Malaysia,Enterprise,Cloud Compute,Southeast Asia,11832.03,6481.94
+2025-04-22,CUST-0245,New Zealand,SMB,SaaS Platform,ANZ,3383.8,1366.68
+2025-07-26,CUST-0319,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,4630.36,2592.44
+2025-10-09,CUST-0024,Australia,Mid-Market,Data Analytics,ANZ,12294.31,5559.27
+2025-05-24,CUST-0021,UAE,Enterprise,Data Analytics,Middle East,21912.62,12569.72
+2025-05-09,CUST-0294,UAE,Mid-Market,SaaS Platform,Middle East,7467.25,3916.72
+2025-11-20,CUST-0077,UAE,SMB,Data Analytics,Middle East,7282.32,2649.29
+2025-04-06,CUST-0092,UAE,SMB,Cloud Compute,Middle East,3649.2,1828.43
+2025-03-24,CUST-0299,Thailand,Enterprise,Cloud Compute,Southeast Asia,7503.25,3336.16
+2025-03-04,CUST-0341,Singapore,Enterprise,Cybersecurity,Southeast Asia,16544.92,5641.31
+2025-07-27,CUST-0274,Australia,Enterprise,Cloud Storage,ANZ,8940.46,3030.98
+2025-06-20,CUST-0136,Australia,Mid-Market,Cloud Compute,ANZ,7157.79,3040.68
+2025-07-02,CUST-0282,New Zealand,Enterprise,Data Analytics,ANZ,15226.86,6416.9
+2025-05-06,CUST-0286,New Zealand,SMB,SaaS Platform,ANZ,3059.38,978.59
+2025-05-04,CUST-0194,New Zealand,SMB,Data Analytics,ANZ,6018.06,1751.45
+2025-04-22,CUST-0349,Malaysia,Mid-Market,Data Analytics,Southeast Asia,8791.16,4672.6
+2025-08-17,CUST-0133,Thailand,Mid-Market,Data Analytics,Southeast Asia,9161.21,4668.23
+2025-07-19,CUST-0311,Thailand,Enterprise,Cloud Storage,Southeast Asia,7204.84,3038.15
+2025-04-29,CUST-0303,Australia,Mid-Market,SaaS Platform,ANZ,5206.23,2590.01
+2025-12-05,CUST-0320,Malaysia,SMB,Cloud Compute,Southeast Asia,5014.99,2577.74
+2025-12-16,CUST-0130,Singapore,SMB,Cloud Compute,Southeast Asia,6907.09,2177.05
+2025-03-14,CUST-0231,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,5968.78,1689.56
+2025-05-27,CUST-0208,New Zealand,SMB,Cloud Storage,ANZ,2466.66,1049.9
+2025-04-05,CUST-0346,Singapore,Mid-Market,Data Analytics,Southeast Asia,5022.5,2649.0
+2025-12-07,CUST-0108,Thailand,Mid-Market,SaaS Platform,Southeast Asia,5839.91,2990.35
+2025-09-24,CUST-0014,Australia,SMB,Cloud Storage,ANZ,4449.3,2495.27
+2025-12-24,CUST-0192,Singapore,Mid-Market,SaaS Platform,Southeast Asia,9762.14,4312.5
+2025-02-04,CUST-0160,UAE,SMB,Cloud Compute,Middle East,5934.35,1714.52
+2025-11-25,CUST-0044,Singapore,SMB,Cloud Storage,Southeast Asia,5234.61,1488.41
+2025-08-06,CUST-0143,Australia,Mid-Market,SaaS Platform,ANZ,7545.64,4048.71
+2025-10-02,CUST-0121,New Zealand,Enterprise,Data Analytics,ANZ,12493.1,5234.04
+2025-01-19,CUST-0023,Singapore,Mid-Market,SaaS Platform,Southeast Asia,8235.07,2994.73
+2025-01-18,CUST-0068,Malaysia,SMB,Cloud Storage,Southeast Asia,2150.9,948.08
+2025-06-30,CUST-0055,New Zealand,Enterprise,Data Analytics,ANZ,16403.45,7413.9
+2025-06-24,CUST-0303,Singapore,Mid-Market,Data Analytics,Southeast Asia,12407.73,4723.54
+2025-05-05,CUST-0177,Thailand,SMB,Data Analytics,Southeast Asia,4290.13,1274.24
+2025-05-24,CUST-0204,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,5435.81,3099.13
+2025-04-17,CUST-0147,Australia,Mid-Market,Cloud Compute,ANZ,7470.82,3736.07
+2025-03-01,CUST-0269,Malaysia,SMB,Cloud Compute,Southeast Asia,3601.82,1330.54
+2025-11-11,CUST-0132,UAE,Enterprise,Data Analytics,Middle East,18366.37,7839.19
+2025-10-29,CUST-0205,Australia,SMB,SaaS Platform,ANZ,5624.67,1673.67
+2025-05-22,CUST-0342,Australia,Enterprise,SaaS Platform,ANZ,11061.09,5803.87
+2025-03-06,CUST-0043,Singapore,SMB,SaaS Platform,Southeast Asia,3867.94,2067.46
+2025-05-26,CUST-0192,Malaysia,SMB,SaaS Platform,Southeast Asia,3735.17,1176.67
+2025-11-11,CUST-0313,Singapore,SMB,Data Analytics,Southeast Asia,8162.02,4558.42
+2025-03-08,CUST-0070,New Zealand,Mid-Market,SaaS Platform,ANZ,6446.38,2899.65
+2025-05-10,CUST-0275,Thailand,SMB,Cloud Storage,Southeast Asia,2254.67,1197.56
+2025-09-26,CUST-0155,Singapore,SMB,Cloud Compute,Southeast Asia,8366.63,2795.81
+2025-02-04,CUST-0012,Malaysia,SMB,Cybersecurity,Southeast Asia,2628.25,1366.21
+2025-01-04,CUST-0162,Singapore,SMB,Cloud Storage,Southeast Asia,3444.87,1146.39
+2025-03-15,CUST-0208,New Zealand,Mid-Market,SaaS Platform,ANZ,5439.79,2794.32
+2025-10-18,CUST-0145,Australia,Enterprise,Data Analytics,ANZ,18281.57,7049.0
+2025-06-16,CUST-0249,Thailand,SMB,Cloud Storage,Southeast Asia,2256.64,1050.02
+2025-03-21,CUST-0338,UAE,Enterprise,Cloud Compute,Middle East,12783.99,3675.43
+2025-04-04,CUST-0075,UAE,Enterprise,Data Analytics,Middle East,17473.55,8257.37
+2025-08-28,CUST-0059,Singapore,Enterprise,Data Analytics,Southeast Asia,19099.03,7936.09
+2025-09-23,CUST-0339,Malaysia,SMB,Cloud Compute,Southeast Asia,3247.51,1414.19
+2025-12-03,CUST-0338,Australia,SMB,Cloud Compute,ANZ,5138.31,2115.34
+2025-03-15,CUST-0276,Thailand,SMB,SaaS Platform,Southeast Asia,2400.98,859.37
+2025-11-24,CUST-0173,Uae,SMB,Data Analytics,Middle East,8031.47,3396.43
+2025-06-08,CUST-0195,Malaysia,Enterprise,Cybersecurity,Southeast Asia,14792.04,7823.35
+2025-01-20,CUST-0209,Thailand,Enterprise,SaaS Platform,Southeast Asia,7078.13,2373.35
+2025-01-22,CUST-0141,New Zealand,SMB,Cloud Storage,ANZ,1973.96,705.15
+2025-01-27,CUST-0316,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,3733.78,1093.07
+2025-09-25,CUST-0291,Thailand,SMB,Data Analytics,Southeast Asia,4160.89,2140.58
+2025-04-01,CUST-0177,Malaysia,SMB,Cybersecurity,Southeast Asia,4531.75,1927.99
+2025-04-07,CUST-0059,Malaysia,SMB,Cybersecurity,Southeast Asia,4636.87,2217.93
+2025-06-22,CUST-0162,Singapore,Enterprise,Cybersecurity,Southeast Asia,18072.16,9018.85
+2025-06-20,CUST-0268,Singapore,SMB,Cloud Storage,Southeast Asia,4070.71,1615.46
+2025-11-15,CUST-0209,Singapore,Enterprise,Data Analytics,Southeast Asia,21863.46,9143.13
+2025-03-23,CUST-0274,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,2931.34,1505.03
+2025-03-09,CUST-0086,Singapore,Enterprise,Cloud Compute,Southeast Asia,16404.67,6478.71
+2025-03-27,CUST-0210,Thailand,Enterprise,Cloud Compute,Southeast Asia,8344.0,3471.95
+2025-02-19,CUST-0318,Thailand,Mid-Market,Data Analytics,Southeast Asia,6448.15,2675.16
+2025-09-21,CUST-0195,Thailand,Mid-Market,Data Analytics,Southeast Asia,7252.13,2847.69
+2025-09-27,CUST-0036,Australia,Enterprise,SaaS Platform,ANZ,11736.15,4101.42
+2025-12-17,CUST-0185,Thailand,Mid-Market,Cloud Storage,Southeast Asia,5162.09,1635.46
+2025-03-11,CUST-0253,Australia,SMB,Data Analytics,ANZ,5456.28,2915.91
+2025-05-17,CUST-0281,New Zealand,SMB,SaaS Platform,ANZ,4760.87,1732.96
+2025-10-30,CUST-0168,Singapore,Enterprise,Cloud Compute,Southeast Asia,19314.03,7615.49
+2025-05-23,CUST-0166,New Zealand,SMB,Cloud Compute,ANZ,4383.51,2399.78
+2025-09-01,CUST-0271,Thailand,SMB,Cloud Storage,Southeast Asia,2734.9,944.93
+2025-03-01,CUST-0220,Thailand,Enterprise,Data Analytics,Southeast Asia,9611.06,4429.64
+2025-07-19,CUST-0346,Singapore,SMB,SaaS Platform,Southeast Asia,5563.29,2601.49
+2025-03-02,CUST-0169,Singapore,SMB,Cloud Compute,Southeast Asia,4696.77,2226.64
+2025-07-20,CUST-0276,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,4051.1,2025.08
+2025-11-15,CUST-0132,UAE,SMB,SaaS Platform,Middle East,5496.63,3025.42
+2025-09-27,CUST-0319,UAE,SMB,Data Analytics,Middle East,5411.7,2250.62
+2025-07-19,CUST-0330,Thailand,Enterprise,SaaS Platform,Southeast Asia,4510.65,2404.02
+2025-03-03,CUST-0296,New Zealand,Enterprise,Cybersecurity,ANZ,13509.19,6177.69
+2025-12-31,CUST-0211,Australia,Mid-Market,SaaS Platform,ANZ,8530.75,3082.58
+2025-05-21,CUST-0229,Thailand,SMB,Cloud Compute,Southeast Asia,4025.06,2157.6
+2025-11-09,CUST-0180,New Zealand,SMB,Cloud Storage,ANZ,3511.82,1412.07
+2025-06-11,CUST-0004,Australia,Mid-Market,Data Analytics,ANZ,12903.93,5894.28
+2025-05-09,CUST-0172,Malaysia,SMB,Cloud Compute,Southeast Asia,5507.32,1929.69
+2025-11-18,CUST-0293,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,7188.76,3780.57
+2025-09-16,CUST-0302,Australia,SMB,Cloud Compute,ANZ,2667.24,1181.9
+2025-05-29,CUST-0330,Australia,SMB,Cloud Compute,ANZ,4018.88,1722.71
+2025-04-08,CUST-0162,UAE,Mid-Market,SaaS Platform,Middle East,7958.45,4459.45
+2025-04-01,CUST-0269,Thailand,SMB,SaaS Platform,Southeast Asia,4275.54,1412.67
+2025-05-07,CUST-0137,Malaysia,Enterprise,SaaS Platform,Southeast Asia,9662.72,5457.19
+2025-04-21,CUST-0254,Australia,Mid-Market,Cybersecurity,ANZ,11528.01,5968.17
+2025-06-08,CUST-0086,Thailand,SMB,Data Analytics,Southeast Asia,4046.48,1461.02
+2025-01-17,CUST-0350,Australia,SMB,Cybersecurity,ANZ,4040.58,1593.79
+2025-03-19,CUST-0175,Thailand,Mid-Market,Data Analytics,Southeast Asia,5360.43,2939.72
+2025-07-19,CUST-0127,Singapore,SMB,Cloud Compute,Southeast Asia,3323.4,1191.35
+2025-01-09,CUST-0147,Australia,Enterprise,Cloud Compute,ANZ,12321.86,4215.11
+2025-07-10,CUST-0339,Malaysia,SMB,Cloud Storage,Southeast Asia,2307.42,1221.25
+2025-11-05,CUST-0163,Australia,SMB,Cloud Storage,ANZ,3728.14,2021.12
+2025-02-09,CUST-0079,Malaysia,Enterprise,SaaS Platform,Southeast Asia,8725.37,3377.4
+2025-03-26,CUST-0187,Thailand,SMB,Cybersecurity,Southeast Asia,4178.04,1780.13
+2025-02-13,CUST-0087,Malaysia,Enterprise,Data Analytics,Southeast Asia,12757.76,5723.18
+2025-06-29,CUST-0330,New Zealand,Mid-Market,Data Analytics,ANZ,9102.49,3185.7
+2025-07-04,CUST-0337,UAE,Mid-Market,Cloud Storage,Middle East,6289.7,2419.67
+2025-08-20,CUST-0267,Thailand,SMB,Cloud Storage,Southeast Asia,3277.63,1741.82
+2025-08-21,CUST-0001,Malaysia,Mid-Market,Data Analytics,Southeast Asia,7942.97,4512.73
+2025-02-23,CUST-0284,Thailand,Mid-Market,Data Analytics,Southeast Asia,6246.07,3609.21
+2025-12-01,CUST-0274,Thailand,Enterprise,Cloud Compute,Southeast Asia,12752.85,6545.74
+2025-10-13,CUST-0270,UAE,Enterprise,Data Analytics,Middle East,23837.54,9410.73
+2025-07-29,CUST-0054,Singapore,Enterprise,Cloud Compute,Southeast Asia,18011.18,6315.61
+2025-10-21,CUST-0009,Australia,SMB,Cloud Storage,ANZ,3794.37,1298.19
+2025-02-14,CUST-0108,Singapore,SMB,Cloud Storage,Southeast Asia,3264.59,1111.26
+2025-08-12,CUST-0251,Thailand,Mid-Market,Cloud Compute,Southeast Asia,5861.72,2794.36
+2025-10-17,CUST-0349,new zealand,SMB,Data Analytics,Middle East,,3163.88
+2025-10-12,CUST-0102,Australia,Enterprise,Cloud Storage,ANZ,10426.91,5707.28
+2025-10-12,CUST-0121,Singapore,Mid-Market,Cybersecurity,Southeast Asia,11138.97,5080.13
+2025-12-22,CUST-0150,Thailand,Mid-Market,SaaS Platform,Southeast Asia,4553.69,2126.44
+2025-03-09,CUST-0027,Thailand,Mid-Market,Cybersecurity,Southeast Asia,4097.34,1165.41
+2025-08-12,CUST-0254,Thailand,Mid-Market,Data Analytics,Southeast Asia,5104.62,2512.28
+2025-03-17,CUST-0040,Thailand,Mid-Market,Cybersecurity,Southeast Asia,6288.1,3417.57
+2025-01-08,CUST-0311,New Zealand,Mid-Market,Cloud Storage,ANZ,4059.78,1186.74
+2025-05-24,CUST-0238,Malaysia,Enterprise,Cybersecurity,Southeast Asia,12357.99,4110.21
+2025-07-22,CUST-0168,Singapore,Enterprise,SaaS Platform,Southeast Asia,14183.86,4429.89
+2025-07-01,CUST-0079,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,5619.28,1997.91
+2025-07-04,CUST-0343,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,5978.15,2528.72
+2025-05-07,CUST-0243,Australia,SMB,Cloud Storage,ANZ,2950.92,1002.35
+2025-06-06,CUST-0009,Malaysia,Mid-Market,Cybersecurity,Southeast Asia,6682.17,3322.72
+2025-11-05,CUST-0220,Singapore,Mid-Market,Data Analytics,Southeast Asia,11188.02,3763.8
+2025-01-03,CUST-0111,Malaysia,Mid-Market,Cybersecurity,Southeast Asia,4059.19,1911.93
+2025-07-11,CUST-0243,Thailand,Enterprise,Data Analytics,Southeast Asia,15897.23,5835.51
+2025-11-19,CUST-0134,Thailand,Enterprise,Cloud Storage,Southeast Asia,7220.19,3220.92
+2025-06-02,CUST-0247,Malaysia,SMB,Cloud Compute,Southeast Asia,2845.87,1425.84
+2025-11-26,CUST-0245,UAE,SMB,Cloud Compute,Middle East,5520.7,1936.84
+2025-09-14,CUST-0147,Thailand,SMB,Data Analytics,Southeast Asia,5909.77,2254.43
+2025-01-16,CUST-0093,New Zealand,Enterprise,Data Analytics,ANZ,11468.69,3525.72
+2025-10-16,CUST-0300,Thailand,Enterprise,SaaS Platform,Southeast Asia,9774.81,2738.18
+2025-03-12,CUST-0206,Thailand,Enterprise,Cloud Storage,Southeast Asia,4902.29,2510.29
+2025-10-16,CUST-0263,Thailand,Mid-Market,Cloud Storage,Southeast Asia,3722.11,1066.39
+2025-08-19,CUST-0275,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,4147.88,2161.19
+2025-08-18,CUST-0160,Thailand,Enterprise,Cloud Storage,Southeast Asia,7011.41,2273.55
+2025-08-12,CUST-0033,Malaysia,Enterprise,Cloud Compute,Southeast Asia,9356.19,5188.45
+2025-02-18,CUST-0033,Malaysia,SMB,SaaS Platform,Southeast Asia,2857.66,916.63
+2025-09-17,CUST-0051,Malaysia,SMB,Cloud Storage,Southeast Asia,2790.1,1482.96
+2025-05-23,CUST-0141,Malaysia,Enterprise,Data Analytics,Southeast Asia,12694.23,3980.44
+2025-12-22,CUST-0147,New Zealand,SMB,Cybersecurity,ANZ,4951.3,2793.71
+2025-08-05,CUST-0188,Thailand,Mid-Market,SaaS Platform,Southeast Asia,5222.64,2958.39
+2025-10-25,CUST-0009,Singapore,Mid-Market,Cybersecurity,Southeast Asia,9369.25,5195.18
+2025-01-01,CUST-0186,Thailand,Mid-Market,Cloud Compute,Southeast Asia,5328.44,1859.81
+2025-08-26,CUST-0144,Thailand,Mid-Market,Cloud Storage,Southeast Asia,2143.47,1194.4
+2025-06-27,CUST-0167,Australia,Mid-Market,Data Analytics,ANZ,9628.38,3960.38
+2025-05-03,CUST-0249,Thailand,Enterprise,Cloud Compute,Southeast Asia,9574.79,4663.02
+2025-06-28,CUST-0255,Australia,SMB,Cloud Storage,ANZ,2649.17,1437.53
+2025-07-01,CUST-0080,UAE,SMB,Data Analytics,Middle East,8578.16,4752.23
+2025-07-24,CUST-0258,UAE,Mid-Market,Cloud Storage,Middle East,6253.54,2348.62
+2025-08-13,CUST-0132,Australia,Mid-Market,Cloud Storage,ANZ,5692.72,3152.59
+2025-10-02,CUST-0094,Australia,Mid-Market,SaaS Platform,ANZ,7479.09,4337.78
+2025-04-22,CUST-0158,Malaysia,SMB,Data Analytics,Southeast Asia,4268.18,1207.73
+2025-01-05,CUST-0030,Thailand,Mid-Market,Cybersecurity,Southeast Asia,4181.99,1959.84
+2025-12-28,CUST-0105,Thailand,SMB,Data Analytics,Southeast Asia,6463.27,1945.03
+2025-07-07,CUST-0312,Malaysia,SMB,Cloud Storage,Southeast Asia,2463.15,1122.42
+2025-06-01,CUST-0280,Australia,Mid-Market,Data Analytics,ANZ,9348.53,5139.59
+2025-02-21,CUST-0284,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,4253.25,1345.81
+2025-09-10,CUST-0142,UAE,SMB,Cybersecurity,Middle East,4729.83,1844.08
+2025-09-06,CUST-0271,New Zealand,Enterprise,SaaS Platform,ANZ,13497.33,7741.49
+2025-11-01,CUST-0215,Thailand,SMB,Cloud Compute,Southeast Asia,4871.69,1947.34
+2025-05-18,CUST-0062,Australia,Enterprise,Data Analytics,ANZ,16758.15,8170.24
+2025-02-13,CUST-0159,New Zealand,Mid-Market,Cloud Storage,ANZ,3931.56,2164.39
+2025-01-09,CUST-0037,UAE,SMB,Cloud Compute,Middle East,6849.21,2836.13
+2025-01-01,CUST-0093,Australia,Enterprise,Cloud Compute,ANZ,11321.95,3969.31
+2025-04-29,CUST-0239,Thailand,SMB,Cybersecurity,Southeast Asia,4167.84,1962.25
+2025-04-03,CUST-0158,New Zealand,Enterprise,Data Analytics,ANZ,10203.37,5593.7
+2025-08-25,CUST-0271,Thailand,Enterprise,SaaS Platform,Southeast Asia,8536.44,4143.75
+2025-02-26,CUST-0262,Singapore,Mid-Market,Data Analytics,Southeast Asia,7712.09,2549.68
+2025-07-02,CUST-0183,Singapore,SMB,SaaS Platform,Southeast Asia,5254.2,2088.07
+2025-08-16,CUST-0041,Thailand,SMB,SaaS Platform,Southeast Asia,3325.83,1283.45
+2025-03-10,CUST-0095,New Zealand,SMB,Data Analytics,ANZ,3889.69,1782.45
+2025-01-27,CUST-0186,UAE,Mid-Market,Cloud Compute,Middle East,7994.51,3159.52
+2025-04-09,CUST-0308,New Zealand,Mid-Market,Cloud Compute,ANZ,7824.78,3816.32
+2025-08-08,CUST-0343,UAE,SMB,SaaS Platform,Middle East,6012.38,2882.07
+2025-04-13,CUST-0123,Singapore,Enterprise,Data Analytics,Southeast Asia,19490.78,10570.05
+2025-11-18,CUST-0157,UAE,SMB,SaaS Platform,Middle East,5669.12,2437.04
+2025-04-28,CUST-0152,UAE,Mid-Market,Cloud Compute,Middle East,8760.54,3339.64
+2025-02-11,CUST-0227,Malaysia,Enterprise,Data Analytics,Southeast Asia,12154.92,6249.31
+2025-10-31,CUST-0234,UAE,Mid-Market,Data Analytics,Middle East,9557.66,4467.6
+2025-01-01,CUST-0093,Malaysia,SMB,Data Analytics,Southeast Asia,4755.53,2297.85
+2025-10-28,CUST-0088,Australia,Enterprise,SaaS Platform,ANZ,12921.08,6695.94
+2025-02-27,CUST-0200,Thailand,Mid-Market,Data Analytics,Southeast Asia,5700.59,2640.94
+2025-04-08,CUST-0151,UAE,Enterprise,Cloud Storage,Middle East,9113.84,4234.46
+2025-10-03,CUST-0085,UAE,Mid-Market,Cybersecurity,Middle East,9167.85,5195.29
+2025-02-23,CUST-0295,Singapore,Mid-Market,SaaS Platform,Southeast Asia,8105.13,2898.57
+2025-06-20,CUST-0344,UAE,SMB,Cybersecurity,Middle East,6472.87,3268.22
+2025-12-08,CUST-0018,Australia,SMB,SaaS Platform,ANZ,4902.4,2375.93
+2025-07-29,CUST-0009,Thailand,Enterprise,Cloud Compute,Southeast Asia,10107.76,3313.52
+2025-04-19,CUST-0315,Thailand,SMB,Cloud Compute,Southeast Asia,3682.12,1411.2
+2025-10-11,CUST-0105,Australia,SMB,SaaS Platform,ANZ,3355.05,1271.51
+2025-06-02,CUST-0057,Thailand,SMB,SaaS Platform,Southeast Asia,2281.49,873.28
+2025-05-25,CUST-0150,Australia,Mid-Market,Data Analytics,ANZ,13013.02,4468.01
+2025-11-22,CUST-0054,UAE,SMB,Cloud Compute,Middle East,7206.82,3755.14
+2025-06-25,CUST-0198,Thailand,Enterprise,Data Analytics,Southeast Asia,10433.61,4061.73
+2025-01-13,CUST-0226,Malaysia,SMB,SaaS Platform,Southeast Asia,2731.2,1097.61
+2025-05-21,CUST-0294,Singapore,Enterprise,Cloud Storage,Southeast Asia,11821.92,4700.52
+2025-09-01,CUST-0001,Australia,SMB,Cybersecurity,ANZ,7114.57,3025.57
+2025-09-23,CUST-0275,UAE,SMB,Cybersecurity,Middle East,6535.49,3624.66
+2025-04-03,CUST-0137,New Zealand,Mid-Market,SaaS Platform,ANZ,4769.35,2388.5
+2025-12-26,CUST-0320,UAE,SMB,Cybersecurity,Middle East,9589.85,4270.47
+2025-09-02,CUST-0115,Australia,SMB,Cloud Storage,ANZ,3172.08,1080.23
+2025-07-03,CUST-0226,Singapore,SMB,Cybersecurity,Southeast Asia,8128.68,4207.52
+2025-01-19,CUST-0170,Singapore,SMB,Cybersecurity,Southeast Asia,6406.18,2977.24
+2025-01-15,CUST-0173,Australia,SMB,Cloud Compute,ANZ,5086.66,1660.52
+2025-12-14,CUST-0107,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,7479.86,4074.58
+2025-05-22,CUST-0057,Malaysia,SMB,SaaS Platform,Southeast Asia,3949.22,1205.62
+2025-11-11,CUST-0267,UAE,SMB,Data Analytics,Middle East,8549.86,4716.74
+2025-05-04,CUST-0015,Singapore,SMB,SaaS Platform,Southeast Asia,5591.63,3034.46
+2025-04-25,CUST-0115,Australia,Mid-Market,Cybersecurity,ANZ,12279.81,6781.34
+2025-02-28,CUST-0340,Australia,Enterprise,SaaS Platform,ANZ,13373.82,5576.78
+2025-11-13,CUST-0327,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,4910.42,2594.28
+2025-08-16,CUST-0036,Singapore,Enterprise,Cybersecurity,Southeast Asia,17115.49,7004.66
+2025-11-09,CUST-0150,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,7025.98,3090.42
+2025-08-22,CUST-0318,UAE,SMB,Cloud Storage,Middle East,3643.87,1736.82
+2025-10-10,CUST-0277,UAE,Enterprise,Cloud Storage,Middle East,11876.79,4521.52
+2025-02-18,CUST-0045,Malaysia,Enterprise,Cybersecurity,Southeast Asia,12065.35,4125.3
+2025-12-11,CUST-0027,Australia,SMB,Cloud Storage,ANZ,4744.54,2088.91
+2025-09-10,CUST-0168,Thailand,SMB,Cloud Storage,Southeast Asia,2684.11,1331.3
+2025-02-11,CUST-0117,Australia,Enterprise,Data Analytics,ANZ,14982.58,8090.72
+2025-06-10,CUST-0211,New Zealand,Enterprise,Cybersecurity,ANZ,13987.68,5932.7
+2025-12-31,CUST-0084,UAE,Enterprise,Data Analytics,Middle East,22789.17,9332.09
+2025-05-26,CUST-0100,Singapore,Mid-Market,SaaS Platform,Southeast Asia,10926.73,5347.5
+2025-04-09,CUST-0207,New Zealand,Enterprise,Cloud Compute,ANZ,13695.38,5731.75
+2025-02-08,CUST-0331,New Zealand,SMB,Cybersecurity,ANZ,4666.04,2425.71
+2025-04-03,CUST-0288,UAE,Enterprise,Cybersecurity,Middle East,16653.74,6097.87
+2025-07-19,CUST-0317,Malaysia,mid-market,Cloud Compute,Southeast Asia,9610.86,3588.65
+2025-05-10,CUST-0256,UAE,Enterprise,Cybersecurity,Middle East,14331.12,4618.56
+2025-12-04,CUST-0213,New Zealand,Mid-Market,Cloud Storage,ANZ,4990.92,2057.74
+2025-12-24,CUST-0226,Thailand,Enterprise,Cloud Storage,Southeast Asia,9215.43,3945.92
+2025-05-07,CUST-0047,Thailand,Mid-Market,Cloud Compute,Southeast Asia,5289.15,1616.69
+2025-11-05,CUST-0302,UAE,SMB,SaaS Platform,Middle East,5558.52,2487.58
+2025-08-28,CUST-0023,Australia,SMB,Cloud Compute,ANZ,5976.9,3109.2
+2025-05-29,CUST-0249,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,3604.45,1063.27
+2025-07-30,CUST-0343,Australia,Enterprise,SaaS Platform,ANZ,13512.51,4913.21
+2025-10-18,CUST-0054,Australia,Mid-Market,Cloud Storage,ANZ,2740.35,1020.36
+2025-03-02,CUST-0011,New Zealand,Mid-Market,SaaS Platform,ANZ,7194.94,3514.7
+2025-04-08,CUST-0196,Singapore,SMB,Cloud Compute,Southeast Asia,6185.18,3485.74
+2025-10-21,CUST-0013,UAE,SMB,SaaS Platform,Middle East,3190.4,1674.54
+2025-11-16,CUST-0147,Malaysia,SMB,Data Analytics,Southeast Asia,6307.48,3342.14
+2025-02-09,CUST-0240,Singapore,SMB,SaaS Platform,Southeast Asia,5322.99,2895.18
+2025-08-11,CUST-0165,UAE,Enterprise,Cloud Compute,Middle East,14313.92,6045.29
+2025-01-17,CUST-0010,New Zealand,Enterprise,Data Analytics,ANZ,14183.91,6253.64
+2025-06-07,CUST-0004,Singapore,SMB,Data Analytics,Southeast Asia,6963.87,3775.86
+2025-08-03,CUST-0080,UAE,SMB,Data Analytics,Middle East,6394.42,3346.13
+2025-01-14,CUST-0143,UAE,Mid-Market,SaaS Platform,Middle East,6184.95,3514.42
+2025-12-28,CUST-0267,Singapore,SMB,SaaS Platform,Southeast Asia,6635.06,2562.6
+2025-11-03,CUST-0062,New Zealand,SMB,Cloud Storage,ANZ,2703.59,1461.18
+2025-08-11,CUST-0094,Thailand,Enterprise,Cloud Compute,Southeast Asia,6878.29,1980.53
+2025-12-07,CUST-0223,New Zealand,SMB,Data Analytics,ANZ,8399.31,3261.14
+2025-02-02,CUST-0194,Singapore,Mid-Market,Cloud Compute,Southeast Asia,7693.16,4247.49
+2025-10-29,CUST-0206,UAE,SMB,Cloud Compute,Middle East,4779.76,1338.71
+2025-05-10,CUST-0062,Singapore,SMB,Cloud Compute,Southeast Asia,4551.07,1497.67
+2025-07-21,CUST-0182,Thailand,Enterprise,SaaS Platform,Southeast Asia,8641.8,4088.0
+2025-10-27,CUST-0261,New Zealand,Mid-Market,SaaS Platform,ANZ,5724.45,2959.99
+2025-08-06,CUST-0139,Thailand,Mid-Market,Cloud Compute,Southeast Asia,4585.61,1477.23
+2025-11-15,CUST-0040,Australia,Enterprise,SaaS Platform,ANZ,12429.36,5255.83
+2025-02-17,CUST-0202,Thailand,Enterprise,Cloud Storage,Southeast Asia,7277.52,2153.15
+2025-12-10,CUST-0221,Australia,SMB,Data Analytics,ANZ,7126.94,3882.32
+2025-03-30,CUST-0051,UAE,Mid-Market,Cybersecurity,Middle East,10062.74,4683.77
+2025-04-18,CUST-0034,Thailand,Enterprise,Cybersecurity,Southeast Asia,9957.81,4819.85
+2025-10-27,CUST-0275,Australia,SMB,Data Analytics,ANZ,7153.75,3499.02
+2025-06-24,CUST-0300,Singapore,Mid-Market,Cybersecurity,Southeast Asia,8113.96,2993.81
+2025-08-20,CUST-0151,Singapore,Mid-Market,Cloud Storage,Southeast Asia,4894.5,1482.13
+2025-05-20,CUST-0333,Australia,SMB,SaaS Platform,ANZ,4751.21,2086.42
+2025-07-24,CUST-0019,Singapore,Mid-Market,Cloud Storage,Southeast Asia,5040.92,2834.73
+2025-02-15,CUST-0332,UAE,SMB,Data Analytics,Middle East,7277.84,3747.09
+2025-07-25,CUST-0033,Australia,Enterprise,Cloud Compute,ANZ,13011.86,6439.75
+2025-10-18,CUST-0019,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,4009.87,1499.6
+2025-06-26,CUST-0012,Singapore,Mid-Market,Cloud Storage,Southeast Asia,5864.11,2188.82
+2025-12-19,CUST-0304,Singapore,Enterprise,Cloud Storage,Southeast Asia,10999.48,3401.66
+2025-08-11,CUST-0276,UAE,SMB,SaaS Platform,Middle East,5386.88,2993.59
+2025-06-19,CUST-0177,Malaysia,SMB,SaaS Platform,Southeast Asia,3071.33,1070.06
+2025-01-19,CUST-0127,New Zealand,SMB,Cloud Compute,ANZ,3590.43,1151.97
+2025-10-18,CUST-0310,UAE,Enterprise,Data Analytics,Middle East,16651.98,
+2025-07-16,CUST-0166,UAE,Mid-Market,Cloud Storage,Middle East,6192.35,3300.1
+2025-04-18,CUST-0076,Singapore,Enterprise,Data Analytics,Southeast Asia,20347.37,10100.06
+2025-07-16,CUST-0235,Malaysia,Mid-Market,Cybersecurity,Southeast Asia,7601.12,2325.54
+2025-11-11,CUST-0174,UAE,Enterprise,Cloud Storage,Middle East,10746.53,3335.34
+2025-05-07,CUST-0224,Malaysia,Mid-Market,Cybersecurity,Southeast Asia,6073.98,2251.67
+2025-08-29,CUST-0223,Thailand,Enterprise,Data Analytics,Southeast Asia,11906.77,4497.49
+2025-07-10,CUST-0329,Thailand,SMB,Cybersecurity,Southeast Asia,3140.38,1470.78
+2025-12-16,CUST-0074,Singapore,Mid-Market,Cybersecurity,Southeast Asia,9101.35,4958.0
+2025-11-24,CUST-0119,UAE,Enterprise,SaaS Platform,Middle East,14659.47,5781.22
+2025-02-17,CUST-0336,UAE,Mid-Market,SaaS Platform,Middle East,6350.52,3584.3
+2025-10-01,CUST-0005,UAE,Mid-Market,SaaS Platform,Middle East,6449.24,2748.14
+2025-01-09,CUST-0288,Malaysia,Enterprise,Cybersecurity,Southeast Asia,9278.87,5272.3
+2025-03-19,CUST-0034,UAE,SMB,SaaS Platform,Middle East,5300.0,2097.64
+2025-05-07,CUST-0257,Australia,SMB,Cloud Compute,ANZ,,2457.72
+2025-10-10,CUST-0206,Australia,Enterprise,Data Analytics,ANZ,19521.61,8531.9
+2025-02-03,CUST-0036,New Zealand,SMB,Cybersecurity,ANZ,4377.63,1500.73
+2025-12-27,CUST-0205,Malaysia,SMB,SaaS Platform,Southeast Asia,3729.43,1285.75
+2025-10-17,CUST-0232,Thailand,Mid-Market,Cloud Storage,Southeast Asia,4399.62,1287.93
+2025-01-11,CUST-0260,Australia,SMB,Cloud Storage,ANZ,3552.54,1997.72
+2025-10-03,CUST-0268,UAE,SMB,Data Analytics,Middle East,8146.04,4358.8
+2025-09-05,CUST-0117,UAE,Enterprise,Cloud Compute,Middle East,18665.27,6221.69
+2025-06-22,CUST-0077,Thailand,SMB,Cloud Compute,Southeast Asia,3131.02,1056.65
+2025-01-28,CUST-0231,Thailand,SMB,Cloud Compute,Southeast Asia,3261.94,969.74
+2025-06-12,CUST-0187,Australia ,SMB,Cloud Compute,ANZ,3734.39,1626.87
+2025-11-13,CUST-0288,Singapore,Mid-Market,Cloud Storage,Southeast Asia,6915.01,3130.57
+2025-11-24,CUST-0232,Malaysia,SMB,Data Analytics,Southeast Asia,5530.22,2652.82
+2025-09-19,CUST-0049,Malaysia,SMB,Data Analytics,Southeast Asia,7336.13,3595.5
+2025-02-12,CUST-0111,UAE,Enterprise,SaaS Platform,Middle East,7752.79,3839.21
+2025-02-06,CUST-0054,New Zealand,Mid-Market,Cloud Compute,ANZ,6400.47,3353.78
+2025-06-27,CUST-0301,Australia,Mid-Market,Cybersecurity,ANZ,8318.86,2622.1
+2025-09-21,CUST-0013,Thailand,SMB,Cloud Storage,Southeast Asia,2292.99,968.81
+2025-08-28,CUST-0181,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,4826.06,2262.01
+2025-06-12,CUST-0247,New Zealand,SMB,Cloud Storage,ANZ,2779.29,1596.47
+2025-02-09,CUST-0050,Australia,Mid-Market,Cybersecurity,ANZ,7538.56,3278.99
+2025-09-12,CUST-0010,UAE,SMB,Cloud Storage,Middle East,1898.72,832.31
+2025-01-22,CUST-0207,Uae,SMB,Cloud Compute,ANZ,4235.37,2396.02
+2025-01-14,CUST-0054,Australia,SMB,Cloud Compute,ANZ,4029.23,1629.27
+2025-04-26,CUST-0227,Singapore,Enterprise,Data Analytics,Southeast Asia,17455.77,8368.89
+2025-10-01,CUST-0346,Malaysia,SMB,Cybersecurity,Southeast Asia,4958.87,2416.95
+2025-05-19,CUST-0301,Thailand,SMB,Data Analytics,Southeast Asia,4815.51,2234.5
+2025-03-05,CUST-0175,Australia,SMB,Cloud Storage,ANZ,2348.53,982.12
+2025-10-24,CUST-0229,UAE,SMB,Cloud Compute,Middle East,6754.04,3790.52
+2025-11-12,CUST-0068,Singapore,Mid-Market,Cloud Storage,Southeast Asia,5302.34,1883.46
+2025-04-09,CUST-0287,UAE,Mid-Market,Data Analytics,Middle East,9780.54,3340.29
+2025-08-03,CUST-0208,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,,4095.36
+2025-04-14,CUST-0029,UAE,SMB,Cloud Storage,Middle East,3603.65,1082.24
+2025-03-14,CUST-0022,UAE,SMB,SaaS Platform,Middle East,6186.81,1999.89
+2025-07-20,CUST-0114,Singapore,Mid-Market,Cloud Compute,Southeast Asia,8147.56,3789.57
+2025-05-08,CUST-0087,UAE,Mid-Market,Data Analytics,Middle East,9021.33,3392.98
+2025-01-06,CUST-0332,Thailand,Enterprise,SaaS Platform,Southeast Asia,6762.28,3420.98
+2025-04-22,CUST-0089,Malaysia,SMB,Cloud Compute,Southeast Asia,3558.3,1259.87
+2025-03-09,CUST-0035,Thailand,SMB,Data Analytics,Southeast Asia,5001.46,2005.04
+2025-07-27,CUST-0109,UAE,Enterprise,Cloud Compute,Middle East,10713.85,5208.5
+2025-04-21,CUST-0176,UAE,SMB,Cybersecurity,Middle East,3917.69,1367.82
+2025-07-17,CUST-0143,Singapore,SMB,Cloud Compute,Southeast Asia,6361.07,3635.58
+2025-04-29,CUST-0046,Singapore,Mid-Market,Data Analytics,Southeast Asia,9768.84,5227.45
+2025-05-24,CUST-0232,Australia,SMB,Cloud Compute,ANZ,6383.38,3547.77
+2025-12-14,CUST-0204,Thailand,Mid-Market,Cloud Compute,Southeast Asia,8340.94,2670.74
+2025-06-25,CUST-0328,Australia,SMB,Cybersecurity,ANZ,7408.08,3560.6
+2025-05-07,CUST-0301,UAE,Mid-Market,Cloud Compute,Middle East,8480.03,3133.57
+2025-11-22,CUST-0223,Thailand,Mid-Market,Cloud Compute,Southeast Asia,7450.74,2983.47
+2025-08-25,CUST-0110,Singapore,SMB,Cloud Compute,Southeast Asia,5889.33,1804.54
+2025-08-07,CUST-0052,Thailand,Enterprise,SaaS Platform,Southeast Asia,8817.98,4814.97
+2025-05-18,CUST-0205,Malaysia,SMB,Cloud Storage,Southeast Asia,2333.73,1346.85
+2025-01-27,CUST-0035,Australia,Mid-Market,Cloud Storage,ANZ,4235.32,1300.78
+2025-03-17,CUST-0085,New Zealand,SMB,Data Analytics,ANZ,4504.66,1575.03
+2025-09-20,CUST-0028,Thailand,Enterprise,Data Analytics,Southeast Asia,11507.48,5705.58
+2025-08-16,CUST-0326,Singapore,Enterprise,Cybersecurity,Southeast Asia,19558.81,7966.76
+2025-10-06,CUST-0320,Malaysia,SMB,SaaS Platform,Southeast Asia,2846.71,1063.44
+2025-07-11,CUST-0266,Singapore,Mid-Market,Cybersecurity,Southeast Asia,9914.49,3872.57
+2025-12-17,CUST-0184,UAE,SMB,Data Analytics,Middle East,8189.46,3393.22
+2025-08-12,CUST-0031,Singapore,Enterprise,Cloud Compute,Southeast Asia,16035.21,5575.14
+2025-08-18,CUST-0101,Malaysia,SMB,SaaS Platform,Southeast Asia,3141.0,1301.04
+2025-12-05,CUST-0218,New Zealand,SMB,SaaS Platform,ANZ,5755.29,2267.45
+2025-04-05,CUST-0332,Thailand,Mid-Market,Cloud Compute,Southeast Asia,4664.96,1737.32
+2025-09-25,CUST-0292,Singapore,Mid-Market,Cybersecurity,Southeast Asia,11255.26,5084.51
+2025-09-27,CUST-0314,Thailand,SMB,Cybersecurity,Southeast Asia,3697.35,1233.87
+2025-07-10,CUST-0139,Thailand,SMB,Data Analytics,Southeast Asia,4946.13,2766.66
+2025-09-25,CUST-0153,Singapore,SMB,Cloud Compute,Southeast Asia,6763.2,3562.41
+2025-10-26,CUST-0304,Thailand,Enterprise,Data Analytics,Southeast Asia,13716.9,7738.46
+2025-07-02,CUST-0273,Australia,Mid-Market,Cybersecurity,ANZ,8293.21,2511.84
+2025-03-29,CUST-0108,Australia,Mid-Market,Cloud Storage,ANZ,4892.13,1885.8
+2025-04-25,CUST-0180,Thailand,Mid-Market,Cloud Storage,Southeast Asia,3626.47,1033.89
+2025-06-25,CUST-0305,UAE,SMB,Cloud Compute,Middle East,5424.08,3106.83
+2025-05-27,CUST-0302,Thailand,SMB,Cybersecurity,Southeast Asia,3245.06,1130.94
+2025-10-30,CUST-0251,Singapore,Mid-Market,Cloud Compute,Southeast Asia,11166.99,3839.01
+2025-07-14,CUST-0167,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,3879.0,1354.51
+2025-02-17,CUST-0307,Malaysia,SMB,Cloud Compute,Southeast Asia,3625.85,1145.79
+2025-05-31,CUST-0150,Singapore,Enterprise,Data Analytics,Southeast Asia,10335.91,3830.91
+2025-10-07,CUST-0093,UAE,Enterprise,SaaS Platform,Middle East,13434.65,7775.56
+2025-10-15,CUST-0124,Thailand,Enterprise,Data Analytics,Southeast Asia,17871.24,10089.6
+2025-09-10,CUST-0125,Thailand,SMB,Cloud Storage,Southeast Asia,2264.66,735.36
+2025-01-08,CUST-0272,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,3580.1,1286.83
+2025-03-16,CUST-0146,UAE,Enterprise,Cloud Storage,Middle East,10281.06,3025.05
+2025-01-24,CUST-0318,UAE,SMB,Cybersecurity,Middle East,5276.86,2088.21
+2025-08-20,CUST-0274,Malaysia,Mid-Market,Data Analytics,Southeast Asia,7827.51,2269.59
+2025-11-06,CUST-0094,UAE,Mid-Market,SaaS Platform,Middle East,10208.58,5412.42
+2025-08-25,CUST-0294,UAE,SMB,SaaS Platform,Middle East,5055.41,2846.85
+2025-09-09,CUST-0004,UAE,SMB,SaaS Platform,Middle East,5751.47,3032.27
+2025-06-08,CUST-0058,New Zealand,Enterprise,Cloud Compute,ANZ,11861.46,5214.16
+2025-12-27,CUST-0058,Australia,Mid-Market,SaaS Platform,ANZ,9134.61,3633.71
+2025-04-28,CUST-0037,Singapore,SMB,SaaS Platform,Southeast Asia,4447.12,1812.55
+2025-06-21,CUST-0281,New Zealand,Enterprise,SaaS Platform,ANZ,11310.66,3646.35
+2025-07-27,CUST-0106,New Zealand,SMB,Cloud Compute,ANZ,4327.88,1660.67
+2025-01-01,CUST-0240,Thailand,Enterprise,SaaS Platform,Southeast Asia,7987.43,2970.69
+2025-05-03,CUST-0127,Malaysia,Enterprise,Cloud Storage,Southeast Asia,4067.82,1261.28
+2025-09-03,CUST-0142,Thailand,SMB,SaaS Platform,Southeast Asia,2116.84,658.1
+2025-09-27,CUST-0240,UAE,Enterprise,Cybersecurity,Middle East,18247.03,5801.33
+2025-03-03,CUST-0191,Australia,SMB,Cloud Storage,ANZ,2986.19,1022.03
+2025-12-27,CUST-0214,New Zealand,SMB,Cybersecurity,ANZ,7582.95,3180.01
+2025-09-26,CUST-0074,Singapore,Mid-Market,Cloud Storage,Southeast Asia,6937.79,2063.44
+2025-05-03,CUST-0184,Malaysia,Enterprise,Cloud Compute,Southeast Asia,9087.31,4439.71
+2025-12-31,CUST-0211,Australia,Mid-Market,SaaS Platform,ANZ,8530.75,3082.58
+2025-10-11,CUST-0346,Thailand,Enterprise,Data Analytics,Southeast Asia,13262.83,5437.34
+2025-01-21,CUST-0244,Australia,Mid-Market,Data Analytics,ANZ,8290.38,3323.15
+2025-10-20,CUST-0098,New Zealand,Enterprise,Cloud Storage,ANZ,9486.56,3412.26
+2025-09-17,CUST-0350,Malaysia,Enterprise,Cloud Compute,Southeast Asia,11023.18,4399.03
+2025-10-27,CUST-0136,Thailand,Enterprise,Cloud Compute,Southeast Asia,11048.85,3946.7
+2025-06-22,CUST-0284,UAE,SMB,Cybersecurity,Middle East,5092.68,2602.37
+2025-04-25,CUST-0308,Malaysia,Enterprise,Cloud Compute,Southeast Asia,9061.58,4844.21
+2025-05-21,CUST-0061,Australia,Enterprise,SaaS Platform,ANZ,9438.48,3430.31
+2025-06-26,CUST-0282,Singapore,SMB,Data Analytics,Southeast Asia,7155.56,3249.89
+2025-12-06,CUST-0048,Singapore,Mid-Market,Cloud Compute,Southeast Asia,,2927.13
+2025-11-11,CUST-0276,New Zealand,Mid-Market,Cloud Compute,ANZ,7438.12,2595.4
+2025-03-20,CUST-0016,New Zealand,Mid-Market,Cloud Storage,ANZ,3781.85,1957.5
+2025-04-28,CUST-0043,UAE,SMB,Cybersecurity,Middle East,5001.14,1762.24
+2025-06-19,CUST-0089,UAE,SMB,SaaS Platform,Middle East,4307.31,2265.74
+2025-07-05,CUST-0208,Malaysia,SMB,Cloud Storage,Southeast Asia,2216.3,1170.21
+2025-01-06,CUST-0179,Thailand,Mid-Market,Cloud Storage,Southeast Asia,2632.69,1332.58
+2025-04-05,CUST-0116,Singapore,Enterprise,SaaS Platform,Southeast Asia,14627.65,8188.95
+2025-02-13,CUST-0022,Australia,SMB,Data Analytics,ANZ,5214.05,2488.04
+2025-12-06,CUST-0011,Singapore,SMB,Cloud Storage,Southeast Asia,4446.19,1720.84
+2025-05-22,CUST-0334,New Zealand,Mid-Market,Cybersecurity,ANZ,7050.6,2189.35
+2025-02-16,CUST-0248,UAE,SMB,Cloud Compute,Middle East,5314.63,2792.98
+2025-10-28,CUST-0207,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,4626.01,2088.95
+2025-02-16,CUST-0273,Singapore,Enterprise,Cloud Compute,Southeast Asia,9322.92,3469.67
+2025-01-10,CUST-0057,Thailand,SMB,SaaS Platform,Southeast Asia,2563.37,993.55
+2025-02-14,CUST-0273,Singapore,Enterprise,Cloud Storage,Southeast Asia,7269.54,2651.27
+2025-05-29,CUST-0264,Australia,SMB,Cloud Compute,ANZ,5321.39,2352.21
+2025-08-22,CUST-0139,Singapore,Enterprise,Data Analytics,Southeast Asia,17275.23,9092.29
+2025-01-15,CUST-0089,Australia,Mid-Market,Data Analytics,ANZ,6257.44,2420.58
+2025-09-16,CUST-0074,New Zealand,Mid-Market,Cloud Compute,ANZ,5569.02,3002.78
+2025-07-08,CUST-0342,Malaysia,Enterprise,Cybersecurity,Southeast Asia,17147.17,8213.03
+2025-11-02,CUST-0038,Thailand,Enterprise,Cloud Compute,Southeast Asia,10421.33,4250.74
+2025-06-04,CUST-0067,Thailand,Mid-Market,Data Analytics,Southeast Asia,7433.92,2583.18
+2025-10-04,CUST-0165,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,4187.74,2068.45
+2025-05-09,CUST-0301,UAE,SMB,Cloud Compute,Middle East,6637.72,1939.34
+2025-11-27,CUST-0255,New Zealand,Mid-Market,Cloud Compute,ANZ,7788.53,3232.72
+2025-12-12,CUST-0101,Thailand,SMB,Cloud Compute,Southeast Asia,4490.83,1418.32
+2025-02-12,CUST-0226,Thailand,Mid-Market,Cloud Storage,Southeast Asia,4090.98,1325.42
+2025-06-09,CUST-0079,Thailand,Mid-Market,SaaS Platform,Southeast Asia,3915.65,2092.76
+2025-02-03,CUST-0253,New Zealand,SMB,Cybersecurity,ANZ,3445.72,1265.0
+2025-09-28,CUST-0087,Singapore,Mid-Market,Data Analytics,Southeast Asia,12526.23,4911.93
+2025-08-30,CUST-0083,UAE,SMB,Cloud Storage,Middle East,3546.24,1524.22
+2025-06-11,CUST-0069,Singapore,Mid-Market,Cloud Compute,Southeast Asia,9225.3,5013.78
+2025-05-03,CUST-0315,Malaysia,Mid-Market,Data Analytics,Southeast Asia,7727.74,4308.01
+2025-09-19,CUST-0190,Malaysia,SMB,Cloud Storage,Southeast Asia,3373.08,1891.39
+2025-07-31,CUST-0139,UAE,Enterprise,Cloud Compute,Middle East,18682.92,10344.89
+2025-05-07,CUST-0163,Australia,Enterprise,Cloud Compute,ANZ,17635.92,7084.52
+2025-03-06,CUST-0008,Singapore,Mid-Market,Data Analytics,Southeast Asia,11936.71,3833.29
+2025-02-09,CUST-0328,UAE,Mid-Market,Cloud Compute,Middle East,5601.58,1920.14
+2025-12-02,CUST-0175,Australia,Enterprise,Cloud Compute,ANZ,16279.83,7957.47
+2025-04-14,CUST-0187,Australia,SMB,Data Analytics,ANZ,5286.32,1861.14
+2025-07-01,CUST-0032,Thailand,Mid-Market,Cybersecurity,Southeast Asia,6142.65,3191.35
+2025-10-16,CUST-0086,Singapore,SMB,Cybersecurity,Southeast Asia,7595.11,3241.81
+2025-10-26,CUST-0152,Singapore,SMB,Cybersecurity,Southeast Asia,6397.56,2983.0
+2025-11-13,CUST-0131,UAE,SMB,Data Analytics,Middle East,10975.08,3896.5
+2025-09-29,CUST-0099,Malaysia,Enterprise,Data Analytics,Southeast Asia,11353.61,5850.28
+2025-04-23,CUST-0178,Thailand,Mid-Market,SaaS Platform,Southeast Asia,5778.19,2955.69
+2025-07-19,CUST-0071,Singapore,SMB,SaaS Platform,Southeast Asia,3398.72,1657.61
+2025-09-06,CUST-0259,Malaysia,Mid-Market,Data Analytics,Southeast Asia,6079.92,3032.81
+2025-03-31,CUST-0216,Malaysia,SMB,Cloud Compute,Southeast Asia,4334.94,2013.12
+2025-02-26,CUST-0016,Thailand,Mid-Market,Cloud Compute,Southeast Asia,4501.98,2097.73
+2025-01-12,CUST-0064,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,3690.26,1604.19
+2025-06-08,CUST-0228,Singapore,SMB,Cloud Storage,Southeast Asia,3404.87,1515.35
+2025-01-09,CUST-0238,Malaysia,SMB,SaaS Platform,Southeast Asia,3810.42,1231.82
+2025-05-02,CUST-0094,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,5361.12,2912.51
+2025-06-07,CUST-0121,Malaysia,SMB,Cloud Compute,Southeast Asia,2586.18,725.71
+2025-02-13,CUST-0167,Malaysia,SMB,SaaS Platform,Southeast Asia,2771.1,938.27
+2025-06-27,CUST-0218,Malaysia,SMB,Cloud Compute,Southeast Asia,4349.22,2448.9
+2025-12-01,CUST-0196,Australia,Mid-Market,Cloud Compute,ANZ,9352.95,2977.51
+2025-07-22,CUST-0008,Australia,Mid-Market,Cloud Compute,ANZ,7043.99,2421.06
+2025-09-10,CUST-0088,Australia,Mid-Market,Cloud Compute,ANZ,7821.04,4088.53
+2025-06-11,CUST-0245,Malaysia,Enterprise,SaaS Platform,Southeast Asia,7500.11,3674.54
+2025-08-14,CUST-0276,Thailand,Enterprise,SaaS Platform,Southeast Asia,7793.24,3038.55
+2025-01-15,CUST-0336,Thailand,Mid-Market,Cybersecurity,Southeast Asia,5540.39,1767.73
+2025-10-29,CUST-0300,Singapore,Enterprise,SaaS Platform,Southeast Asia,13419.4,4580.97
+2025-09-02,CUST-0052,Australia,Enterprise,Cybersecurity,ANZ,14815.45,7895.31
+2025-12-13,CUST-0032,Singapore,Mid-Market,Cloud Compute,Southeast Asia,7528.09,3479.7
+2025-08-30,CUST-0088,Singapore,Mid-Market,Data Analytics,Southeast Asia,11461.51,3924.5
+2025-07-16,CUST-0109,Malaysia,Enterprise,SaaS Platform,Southeast Asia,12256.19,5255.69
+2025-12-16,CUST-0026,Singapore,SMB,Cloud Storage,Southeast Asia,3348.53,1502.25
+2025-03-11,CUST-0058,Thailand,SMB,Data Analytics,Southeast Asia,3437.57,1095.94
+2025-07-06,CUST-0010,Australia,SMB,Cloud Compute,ANZ,4876.81,1987.77
+2025-02-13,CUST-0187,Australia,SMB,Data Analytics,ANZ,6206.37,2349.33
+2025-12-09,CUST-0148,Australia,SMB,Cloud Compute,ANZ,6081.35,3250.86
+2025-02-25,CUST-0135,Thailand,Mid-Market,Cloud Compute,Southeast Asia,5976.67,2636.87
+2025-07-06,CUST-0051,New Zealand,Mid-Market,Data Analytics,ANZ,8913.52,4443.3
+2025-10-19,CUST-0281,Australia,SMB,Cloud Compute,ANZ,6782.85,3931.6
+2025-09-24,CUST-0248,Thailand,SMB,SaaS Platform,Southeast Asia,2816.18,1472.54
+2025-03-01,CUST-0010,Malaysia,Enterprise,Cloud Compute,Southeast Asia,9314.17,4662.25
+2025-02-21,CUST-0093,Australia,SMB,Cloud Storage,ANZ,2414.25,855.15
+2025-02-12,CUST-0128,New Zealand,SMB,Cloud Compute,ANZ,5057.42,1513.39
+2025-02-08,CUST-0328,UAE,SMB,Data Analytics,Middle East,7011.27,3633.75
+2025-04-11,CUST-0079,New Zealand,Enterprise,Cloud Storage,ANZ,7538.66,3486.6
+2025-07-24,CUST-0167,Malaysia,SMB,Data Analytics,Southeast Asia,4780.4,1420.91
+2025-05-11,CUST-0228,UAE,Enterprise,Cloud Compute,Middle East,11593.86,3517.43
+2025-12-03,CUST-0299,Australia,Mid-Market,SaaS Platform,ANZ,8369.64,4186.2
+2025-06-27,CUST-0038,Thailand,Enterprise,Data Analytics,Southeast Asia,10768.77,5084.08
+2025-01-23,CUST-0006,New Zealand,SMB,Cloud Compute,ANZ,3710.53,1528.49
+2025-03-05,CUST-0088,Singapore,SMB,Cloud Compute,Southeast Asia,4259.4,2191.82
+2025-06-23,CUST-0084,Australia,Enterprise,Data Analytics,ANZ,16610.33,9029.77
+2025-08-25,CUST-0119,Australia,SMB,SaaS Platform,ANZ,4285.61,1235.53
+2025-01-17,CUST-0337,New Zealand,Mid-Market,SaaS Platform,ANZ,4458.62,1366.14
+2025-01-30,CUST-0255,Malaysia,SMB,SaaS Platform,Southeast Asia,3368.8,1259.0
+2025-06-20,CUST-0127,Singapore,Enterprise,Cloud Storage,Southeast Asia,6865.25,3640.43
+2025-05-17,CUST-0158,Malaysia,SMB,SaaS Platform,Southeast Asia,4094.31,2072.43
+2025-10-28,CUST-0222,Thailand,SMB,SaaS Platform,Southeast Asia,3668.43,1497.05
+2025-01-25,CUST-0344,Singapore,Mid-Market,Cybersecurity,Southeast Asia,7174.01,3484.8
+2025-03-02,CUST-0136,Australia,SMB,SaaS Platform,ANZ,3669.15,1120.27
+2025-02-07,CUST-0073,Malaysia,SMB,Data Analytics,Southeast Asia,4667.9,1728.98
+2025-03-05,CUST-0273,Australia,SMB,Cybersecurity,ANZ,5175.11,2037.91
+2025-04-04,CUST-0116,Singapore,SMB,SaaS Platform,Southeast Asia,5367.64,2370.07
+2025-04-23,CUST-0187,Australia,Mid-Market,SaaS Platform,ANZ,10581.93,3197.99
+2025-12-16,CUST-0172,Australia,Enterprise,Data Analytics,ANZ,19552.27,10338.19
+2025-10-15,CUST-0280,Australia,SMB,Cybersecurity,ANZ,7656.29,4392.17
+2025-05-20,CUST-0185,Singapore,SMB,SaaS Platform,Southeast Asia,4094.93,1653.45
+2025-03-21,CUST-0300,Thailand,Enterprise,Data Analytics,Southeast Asia,13567.11,4750.11
+2025-06-08,CUST-0157,Singapore,Mid-Market,Cloud Compute,Southeast Asia,10149.74,3779.75
+2025-09-13,CUST-0331,New Zealand,Mid-Market,SaaS Platform,ANZ,6183.19,1834.11
+2025-09-21,CUST-0251,Thailand,Enterprise,Cloud Compute,Southeast Asia,12207.46,4727.87
+2025-11-28,CUST-0294,Australia,SMB,Data Analytics,ANZ,7786.7,2818.22
+2025-11-21,CUST-0057,Australia,Enterprise,SaaS Platform,ANZ,15048.62,6461.5
+2025-05-05,CUST-0291,Thailand,SMB,Cloud Compute,Southeast Asia,2951.58,838.13
+2025-08-12,CUST-0227,UAE,Enterprise,Cybersecurity,Middle East,20300.2,10731.9
+2025-08-21,CUST-0215,Singapore,SMB,SaaS Platform,Southeast Asia,6343.84,3108.93
+2025-03-29,CUST-0271,Australia,Enterprise,Cloud Storage,ANZ,8483.6,2900.04
+2025-02-18,CUST-0295,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,4612.36,2383.14
+2025-07-08,CUST-0007,Uae,Mid-Market,Cloud Compute,Southeast Asia,6428.42,2946.63
+2025-07-24,CUST-0313,Thailand,Enterprise,Cybersecurity,Southeast Asia,11058.72,3201.04
+2025-05-04,CUST-0210,Australia,Mid-Market,Data Analytics,ANZ,11775.8,5685.34
+2025-05-26,CUST-0246,Australia,Enterprise,Cybersecurity,ANZ,14807.94,7137.63
+2025-10-01,CUST-0195,Australia,Enterprise,SaaS Platform,ANZ,11134.15,5839.31
+2025-08-25,CUST-0153,Singapore,Mid-Market,Cloud Compute,Southeast Asia,9298.9,4401.29
+2025-04-27,CUST-0035,UAE,SMB,Data Analytics,Middle East,7763.03,4084.13
+2025-10-12,CUST-0137,Australia,Mid-Market,SaaS Platform,ANZ,8265.4,3295.52
+2025-08-21,CUST-0016,UAE,SMB,Data Analytics,Middle East,5410.24,2567.79
+2025-07-09,CUST-0101,Thailand,Mid-Market,Cybersecurity,Southeast Asia,6681.54,3338.58
+2025-11-19,CUST-0152,New Zealand,Enterprise,Cloud Compute,ANZ,14913.05,5091.97
+2025-03-05,CUST-0332,Australia,SMB,Cloud Storage,ANZ,2938.52,1582.05
+2025-09-05,CUST-0172,Thailand,Mid-Market,Cybersecurity,Southeast Asia,8444.39,3552.69
+2025-07-11,CUST-0307,UAE,Enterprise,SaaS Platform,Middle East,12216.35,4771.74
+2025-11-09,CUST-0023,Singapore,Mid-Market,Data Analytics,Southeast Asia,12991.99,4354.9
+2025-10-25,CUST-0138,Malaysia,Mid-Market,SaaS Platform,Southeast Asia,7523.79,2657.55
+2025-06-22,CUST-0303,UAE,SMB,Data Analytics,Middle East,5434.24,3088.39
+2025-12-31,CUST-0025,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,4089.46,1925.5
+2025-08-26,CUST-0296,Thailand,Enterprise,Cloud Storage,Southeast Asia,5206.21,2723.75
+2025-08-13,CUST-0266,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,3825.32,1723.53
+2025-04-29,CUST-0106,Australia,Mid-Market,Data Analytics,ANZ,12059.84,6024.08
+2025-09-28,CUST-0032,Thailand,Enterprise,Cloud Storage,Southeast Asia,5126.47,1873.1
+2025-07-01,CUST-0249,Singapore,SMB,Data Analytics,Southeast Asia,6075.34,2027.04
+2025-01-11,CUST-0042,Australia,SMB,Cloud Compute,ANZ,4559.79,1933.74
+2025-06-05,CUST-0299,Singapore,Enterprise,Data Analytics,Southeast Asia,20401.93,
+2025-12-31,CUST-0226,Singapore,Mid-Market,Cloud Compute,Southeast Asia,8563.15,2601.76
+2025-10-11,CUST-0329,Australia,Enterprise,SaaS Platform,ANZ,10928.69,4271.58
+2025-10-27,CUST-0055,UAE,Mid-Market,SaaS Platform,Middle East,10409.77,3092.06
+2025-02-01,CUST-0270,New Zealand,Mid-Market,Cloud Storage,ANZ,4378.89,2005.39
+2025-08-09,CUST-0002,UAE,Mid-Market,SaaS Platform,Middle East,7123.14,3011.25
+2025-04-17,CUST-0035,Singapore,SMB,Data Analytics,Southeast Asia,7065.55,3709.31
+2025-01-08,CUST-0047,Malaysia,Enterprise,Cloud Compute,Southeast Asia,8703.65,3268.38
+2025-03-23,CUST-0244,Singapore,SMB,Data Analytics,Southeast Asia,6064.23,3403.54
+2025-12-22,CUST-0118,New Zealand,Enterprise,Data Analytics,ANZ,14786.53,
+2025-07-31,CUST-0091,UAE,Mid-Market,Data Analytics,Middle East,12138.52,3509.87
+2025-06-11,CUST-0286,Thailand,Enterprise,Data Analytics,Southeast Asia,14827.5,5845.64
+2025-07-31,CUST-0221,UAE,Mid-Market,SaaS Platform,Middle East,10691.0,3816.43
+2025-04-26,CUST-0295,Malaysia,SMB,SaaS Platform,Southeast Asia,2918.66,1257.1
+2025-06-03,CUST-0344,Singapore,Enterprise,Cloud Compute,Southeast Asia,10992.73,5196.27
+2025-03-14,CUST-0238,Australia,Mid-Market,SaaS Platform,ANZ,4995.18,2358.3
+2025-11-15,CUST-0190,Malaysia,SMB,Cybersecurity,Southeast Asia,5611.99,1620.46
+2025-07-27,CUST-0128,Singapore,SMB,Cloud Compute,Southeast Asia,6557.02,3221.58
+2025-09-29,CUST-0304,UAE,Mid-Market,Cloud Storage,Middle East,4836.2,2165.28
+2025-11-20,CUST-0298,Thailand,Enterprise,Cybersecurity,Southeast Asia,17832.69,6075.29
+2025-11-24,CUST-0220,Thailand,SMB,Cloud Compute,Southeast Asia,4226.91,1313.5
+2025-10-03,CUST-0227,Singapore,Mid-Market,Cloud Compute,Southeast Asia,10775.76,4887.94
+2025-11-26,CUST-0076,Malaysia,mid-market,SaaS Platform,Southeast Asia,14084.69,6957.14
+2025-10-01,CUST-0235,Malaysia,Enterprise ,Cloud Compute,Southeast Asia,3339.44,1686.14
+2025-06-10,CUST-0255,Thailand,Enterprise,Data Analytics,Southeast Asia,13064.62,4064.66
+2025-07-13,CUST-0210,Thailand,Mid-Market,Data Analytics,Southeast Asia,5230.82,1950.68
+2025-01-23,CUST-0234,Australia,Mid-Market,Cybersecurity,ANZ,8408.82,4828.47
+2025-02-06,CUST-0283,Thailand,Enterprise,Cloud Compute,Southeast Asia,9222.29,4363.11
+2025-12-30,CUST-0044,Malaysia,SMB,Data Analytics,Southeast Asia,4660.54,1923.06
+2025-10-18,CUST-0285,Malaysia,SMB,Data Analytics,Southeast Asia,4952.99,1790.83
+2025-07-05,CUST-0267,Australia,SMB,Cloud Compute,ANZ,4981.77,2312.86
+2025-02-01,CUST-0292,Australia,Mid-Market,Data Analytics,ANZ,9021.19,2837.83
+2025-03-13,CUST-0053,New Zealand,Enterprise,Cloud Storage,ANZ,6589.56,2726.7
+2025-09-18,CUST-0080,Thailand,Enterprise,Cybersecurity,Southeast Asia,11707.21,4389.2
+2025-08-09,CUST-0132,Thailand,Mid-Market,Cloud Storage,Southeast Asia,4030.98,1167.24
+2025-11-01,CUST-0086,Malaysia,SMB,SaaS Platform,Southeast Asia,3818.91,1859.27
+2025-03-25,CUST-0267,Thailand,Mid-Market,Data Analytics,Southeast Asia,6727.76,2459.97
+2025-10-18,CUST-0093,Singapore,SMB,SaaS Platform,Southeast Asia,5169.52,1858.16
+2025-12-31,CUST-0072,Singapore,SMB,Cybersecurity,Southeast Asia,8494.89,2922.64
+2025-05-17,CUST-0161,Thailand,Enterprise,Cybersecurity,Southeast Asia,11426.66,6215.01
+2025-05-05,CUST-0054,Thailand,Mid-Market,Cloud Compute,Southeast Asia,5443.21,1903.03
+2025-06-13,CUST-0144,Australia,Enterprise,SaaS Platform,ANZ,10173.83,4921.51
+2025-06-15,CUST-0312,UAE,Enterprise,Cloud Storage,Middle East,4873.05,2470.91
+2025-02-20,CUST-0081,Thailand,Mid-Market,SaaS Platform,Southeast Asia,3744.81,1507.21
+2025-06-02,CUST-0079,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,5792.04,2197.04
+2025-04-11,CUST-0245,UAE,SMB,Cybersecurity,Middle East,6070.23,2990.26
+2025-12-05,CUST-0217,Singapore,Enterprise,SaaS Platform,Southeast Asia,13195.84,6765.28
+2025-04-28,CUST-0239,Thailand,SMB,SaaS Platform,Southeast Asia,3509.33,1346.92
+2025-09-14,CUST-0184,UAE,SMB,Cloud Compute,Middle East,6761.94,1987.55
+2025-06-03,CUST-0306,Australia,SMB,Cloud Compute,ANZ,6844.67,3892.54
+2025-04-03,CUST-0276,Singapore,Enterprise,SaaS Platform,Southeast Asia,12173.87,4195.37
+2025-04-12,CUST-0284,Singapore,Enterprise,Data Analytics,Southeast Asia,17650.72,7502.53
+2025-10-05,CUST-0090,Thailand,Mid-Market,Data Analytics,Southeast Asia,5964.83,2803.88
+2025-03-30,CUST-0238,Malaysia,SMB,SaaS Platform,Southeast Asia,3703.14,2027.6
+2025-01-21,CUST-0309,Singapore,Enterprise ,Cloud Compute,Southeast Asia,6188.89,2947.69
+2025-11-09,CUST-0129,UAE,SMB,Cloud Compute,Middle East,5727.63,2363.97
+2025-12-10,CUST-0294,Thailand,Mid-Market,Cloud Storage,Southeast Asia,3606.24,1518.59
+2025-01-23,CUST-0062,Australia,SMB,Data Analytics,ANZ,5157.12,2473.57
+2025-06-24,CUST-0220,Australia,Mid-Market,Cloud Storage,ANZ,4744.79,1952.5
+2025-01-29,CUST-0075,UAE,SMB,Cloud Storage,Middle East,4006.57,1254.11
+2025-09-16,CUST-0064,Australia,Mid-Market,Cloud Compute,ANZ,10816.33,5422.84
+2025-11-17,CUST-0024,Singapore,SMB,Cloud Compute,Southeast Asia,6002.33,2442.74
+2025-01-30,CUST-0211,Singapore,SMB,Data Analytics,Southeast Asia,5831.26,2660.69
+2025-03-18,CUST-0127,New Zealand,Enterprise,Data Analytics,ANZ,14994.01,5390.17
+2025-02-15,CUST-0087,UAE,SMB,Cybersecurity,Middle East,7161.49,3045.15
+2025-10-07,CUST-0140,Malaysia,Mid-Market,Cloud Compute,Southeast Asia,5038.73,2030.27
+2025-11-07,CUST-0044,Thailand,SMB,Cybersecurity,Southeast Asia,4699.72,
+2025-01-22,CUST-0177,THAILAND,SMB,Data Analytics,Southeast Asia,3403.93,1086.16
+2025-02-27,CUST-0241,Thailand,SMB,Cybersecurity,Southeast Asia,4640.04,1697.12
+2025-06-08,CUST-0194,Australia,Mid-Market,Cloud Compute,ANZ,7945.18,2939.42
+2025-04-16,CUST-0142,Singapore,Enterprise,Cloud Compute,Southeast Asia,11479.8,3588.07
+2025-04-05,CUST-0293,Thailand,Mid-Market,Cloud Compute,Southeast Asia,3720.39,1675.64
+2025-04-23,CUST-0308,Malaysia,Enterprise,Data Analytics,Southeast Asia,13437.99,5699.0
+2025-01-30,CUST-0288,New Zealand,SMB,Cloud Compute,ANZ,,2051.88
+2025-05-22,CUST-0319,Singapore,Enterprise,Cloud Storage,Southeast Asia,6782.07,2115.97
+2025-04-13,CUST-0274,UAE,SMB,SaaS Platform,Middle East,5250.38,2247.74
+2025-06-06,CUST-0264,Malaysia,SMB,SaaS Platform,Southeast Asia,4399.84,2439.29
+2025-06-16,CUST-0177,New Zealand,SMB,Data Analytics,ANZ,6139.12,2685.11
+2025-03-16,CUST-0313,New Zealand,Mid-Market,SaaS Platform,ANZ,6406.41,3263.78
+2025-05-21,CUST-0274,Malaysia,SMB,Cloud Compute,Southeast Asia,3691.32,1377.71
+2025-04-14,CUST-0037,Australia,SMB,Cybersecurity,ANZ,4988.94,1984.4
+2025-03-16,CUST-0156,Australia,Enterprise,Cloud Compute,ANZ,15235.91,6995.18
+2025-04-10,CUST-0334,Singapore,Mid-Market,Cloud Storage,Southeast Asia,5162.37,2248.83
+2025-03-12,CUST-0210,Singapore,Mid-Market,Cybersecurity,Southeast Asia,4706.7,1743.87
+2025-09-30,CUST-0020,Malaysia,Enterprise,Data Analytics,Southeast Asia,13887.25,5870.68
+2025-12-18,CUST-0350,New Zealand,Mid-Market,Cloud Storage,ANZ,4680.46,2690.25
+2025-06-24,CUST-0219,UAE,Enterprise,Cloud Compute,Middle East,17748.78,8635.42
+2025-12-30,CUST-0254,Singapore,SMB,Data Analytics,Southeast Asia,6891.62,3615.25
+2025-05-23,CUST-0032,Singapore,Mid-Market,SaaS Platform,Southeast Asia,7634.19,2634.01
+2025-12-25,CUST-0344,Malaysia,SMB,Cloud Storage,Southeast Asia,2629.92,1497.29
+2025-02-13,CUST-0095,New Zealand,SMB,Data Analytics,ANZ,5449.81,1665.31
+2025-01-31,CUST-0156,Singapore,Mid-Market,Cybersecurity,Southeast Asia,8245.93,3823.09
+2025-02-07,CUST-0002,Thailand,SMB,SaaS Platform,Southeast Asia,2583.78,766.41
+2025-08-01,CUST-0265,Singapore,SMB,Cloud Storage,Southeast Asia,4505.46,2502.28
+2025-03-05,CUST-0031,Thailand,Enterprise,Cloud Storage,Southeast Asia,6244.52,1969.23
+2025-07-26,CUST-0309,Thailand,Mid-Market,Cloud Storage,Southeast Asia,1981.42,760.42
+2025-11-16,CUST-0113,UAE,SMB,Cybersecurity,Middle East,5887.64,2547.15
+2025-06-21,CUST-0221,UAE,Mid-Market,SaaS Platform,Middle East,6315.25,3396.71
+2025-11-02,CUST-0266,Malaysia,Enterprise,Cloud Storage,Southeast Asia,7385.02,2469.41
+2025-10-15,CUST-0112,singapore,Mid-Market,Cloud Storage,Middle East,4889.67,2474.05
+2025-06-20,CUST-0065,Australia,Enterprise,SaaS Platform,ANZ,11740.25,6345.39
+2025-08-23,CUST-0065,Malaysia,Mid-Market,Cloud Storage,Southeast Asia,3887.86,1850.91
